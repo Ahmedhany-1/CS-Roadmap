@@ -202,8 +202,9 @@
   - [(197) 16 Programming 4kids - STL 4 - Homework](https://www.youtube.com/watch?v=POpxu3kUT6M&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=37)
 ### 1.12 Pointers
 - **Resource Links:**
-  - [What is Programming? (Video)](https://www.youtube.com/watch?v=resources)
-  - 
+  - [(203) |Programming with C++| - | Pointers in C++ | - YouTube](https://www.youtube.com/watch?v=38IG-UToeZ0)
+  - [Pointer Playlist Good to view](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6z3264DylWHcHBtmEjUWrA)
+  - [(203) Introduction to pointers in C/C++ - YouTube](https://www.youtube.com/watch?v=h-HBipu_1P0&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 ### 1.13 Debuggers
 - **Resource Links:**
   - [(189) How to debug your code in Clion - YouTube](https://www.youtube.com/watch?v=q8YQi6YXQj8)
@@ -215,9 +216,10 @@
 ---
 ### Next Step
 [(190) 19 Your Next Roadmap - YouTube](https://www.youtube.com/watch?v=YPKfSyOQxmI&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=41&t=47s)
-
+ان شاء الله باقي ال steps هعمل ليها رودماب تكون كويسة وهنزلها وان شاء الله تلاقوها علي GitHub في أقرب وقت.
+--
 > **"علمكم الله ما ينفعكم ونفعكم بما تعلمتم وزادكم علما"**
 > — دكتور مصطفي سعد جزاه الله خيرا 
 > لا تنسونا من صالح دعواكم وفقكم الله ..(:
 
-
+- You can Find Other Roadmaps on my GitHub [here](https://github.com/Ahmedhany-1/CS---Roadmap/tree/main)
