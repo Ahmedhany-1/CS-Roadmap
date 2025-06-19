@@ -8,7 +8,7 @@
 
 ## 📖 Table of Contents
 
-* [🧱 الأساسيات (Fundamentals)](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-%D8%A7%D9%84%D8%A3%D8%B3%D8%A7%D8%B3%D9%8A%D8%A7%D8%AA-fundamentals)
+* [Fundamentals](#-الأساسيات-fundamentals)
   * [Core Subjects](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-core-subjects)
   * [Additional Important Subjects](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-additional-important-subjects)
   * [Recommended Videos](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-recommended-videos)
