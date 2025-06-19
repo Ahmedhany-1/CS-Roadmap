@@ -395,15 +395,12 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 - **Linked Lists (SLL & DLL).**
 
   - Arabic videos
-
     - [linked list Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
     - [Data Structures - LinkedList](https://www.youtube.com/watch?v=e6zJaMxzciA&t=920s)
   - English videos
-
     - [Linked Lists Introduction](https://www.youtube.com/watch?v=-Yn5DU0_-lw)
     - [Doubly Linked List Code](https://www.youtube.com/watch?v=m-8ZBO2ywaU)
   - for Technical Interviews
-
     - [Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
 - **Stack & Queue**
 
@@ -416,72 +413,69 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 
   - Arabic videos
     - [Tree Data Structure (1/3) [كود مصري]](https://youtu.be/rVKfofRnXvk?si=_SXt6KHcvnJkTEJ4)
-    - [](https://youtu.be/5NImEfD9tFc?si=v_Z0uE2C8qarMfEo)
-    - [](https://youtu.be/mxxa-HfYGss?si=4fnSlREgEMiQIKyK)
+    - [Tree Data Structure Implementation(2/3) [كود مصري]](https://youtu.be/5NImEfD9tFc?si=ebogSDH0pGP_bRLM)
+    - [Tree Traversal Data Structure (3/3) [كود مصري]](https://youtu.be/mxxa-HfYGss?si=4fnSlREgEMiQIKyK)
+    - [DSA Live Course - Problem Solving on Binary tree](https://youtu.be/TpdstFSd-ws?si=7udIqoRjATYpldQN)
   - English videos
+    - [Binary Trees | Binary Search Trees | [take U forward]](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
   - For Technical Interviews
-- Binary Search Tree
+    - [Binary Tree Algorithms for Technical Interviews - Full Course](https://youtu.be/fAAZixBzIAI?si=tpRtVTYA3tcNrh4y)
+- **Binary Search Tree**
 
   - Arabic videos
-    - [](https://youtu.be/jB7vseYRJcA?si=YpLVmsVNqof4rsF7)
-    - [](https://youtu.be/aydX3efdtTg?si=0JrLwtpQfEd4J0EM)
-    -
+    - [Binary Search Trees (1/2) [كود مصري]](https://youtu.be/jB7vseYRJcA?si=YpLVmsVNqof4rsF7)
+    - [Binary Search Tree Insertion, Deletion (2/2) [كود مصري]](https://youtu.be/aydX3efdtTg?si=0JrLwtpQfEd4J0EM)
   - English videos
+    - [Binary Trees | Binary Search Trees | [take U forward]](https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk)
   - For Technical Interviews
 
 * **AVL Tree**
-
   - Arabic videos
-
-    - [](https://youtu.be/TBadaja07R0?si=FrcdIyXN4EJV0Hco)
-    - [](https://youtu.be/NA43jWj5Fpg?si=IaTazBNxyGIJwXqV)
-    - [](https://youtu.be/jlMYJz4Qchw?si=VqqUn6mBCCjSSxUB)
+    - [AVL Trees (1/3) [كود مصري]](https://youtu.be/TBadaja07R0?si=FrcdIyXN4EJV0Hco)
+    - [AVL Trees (2/3) Balancing Methods [كود مصري]](https://youtu.be/NA43jWj5Fpg?si=Mm5nou49lap1j-Ff)
+    - [AVL Trees (3/3) Complete Example [كود مصري]](https://youtu.be/jlMYJz4Qchw?si=e7jM2kgF_l_eFlF-)
   - English videos
   - For Technical Interviews
 
-- Trie
+- **Trie**
+
+  - Arabic videos
+    - [Trie & Binary Trie](https://youtu.be/rOaKEQ71GhA?si=rPv5kkEKliiKlFfA)
+  - English videos
+  - For Technical Interviews
+- **Hash Table**
 
   - Arabic videos
   - English videos
   - For Technical Interviews
-- Hash Table
-
-  - Arabic videos
-  - English videos
-  - For Technical Interviews
-- Sorting
+- **Sorting**
 
   - Arabic videos
     - [Sorting Algorithms [كود مصري]](https://www.youtube.com/watch?v=KYSv6FY7_kM&list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV)
   - English videos
   - For Technical Interviews
-- Binary Search
+- **Binary Search**
 
   - Arabic videos
   - English videos
   - For Technical Interviews
-- Graph Algorithms
-
-  - Arabic videos
-
-    - [**Intro To Graph Theory**](https://www.youtube.com/watch?v=1GoPuSih2ag)
-    - [**Depth-First Search (DFS)**](https://www.youtube.com/watch?v=1vB2F3wtJfw&t=18s)
-    - [BFS & Graph Applications](https://www.youtube.com/watch?v=AuGNPvbfy4A&list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&index=8&t=11313s)
-    - [Dijkstra Algorithm](https://www.youtube.com/watch?v=qH8DusU744o)
-  - English videos
-  - For Technical Interviews
-- Dynamic Programming
+- **Graph Algorithms**
 
   - Arabic videos
   - English videos
   - For Technical Interviews
-- Backtracking
+- **Dynamic Programming**
+
+  - Arabic videos
+  - English videos
+  - For Technical Interviews
+- **Backtracking**
 
   - Arabic videos
   - English videos
   - For Technical Interviews
 
-  # Databases 4️⃣
+# Databases 4️⃣
 
 #### **_A Comprehensive Roadmap for MASTERING Databases_**
 
