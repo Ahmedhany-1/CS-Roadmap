@@ -475,14 +475,9 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
   - English videos
   - For Technical Interviews
 
-# Databases 4️⃣
+# Databases4️⃣
 
-#### **_A Comprehensive Roadmap for MASTERING Databases_**
-
-> - **Note:** The two sources complement each other, and it's essential to go through both before starting.
-> - **Tip:** Before diving into your track, make sure you’ve covered at least the first two phases of the learning path.
-
-- ### Learning Path by [Sayed Alesawy](https://www.linkedin.com/in/sayed-alesawy/) (Lead Software Engineer at Instabug)
+Learning Path by [Sayed Alesawy](https://www.linkedin.com/in/sayed-alesawy/) (Lead Software Engineer at Instabug)
 
 > انا رأى انه فيه ٤ مراحل تتعلم بيهم databases.
 >
@@ -500,13 +495,35 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 >
 > لو انت من الناس الى بتحب ال courses، خصوصا لو طالب وعندم وقت وطاقة تقعد بقى تقرا slides وتعمل assignments و projects. ارشحلك CMU
 
-- ### Recources by [Ahmed Ayman](https://www.linkedin.com/in/ahmedaymanbfcai/) (~3 years of experience in the software field)
+- ### Recources by [Ahmed Ayman](https://x.com/AHMED_BFCAI_20)
+- Arabic
 
-  - [Recources](https://x.com/AHMED_BFCAI_20/status/1767298354051158324)
+  - [Database 1st - Mohamed El Desouki](https://youtu.be/yLc0Yp5QZlU?si=uHlANL7Ig9OoMb-t)
+  - [Database Fundamentals - maharatech](https://maharatech.gov.eg/course/view.php?id=740)
+  - [Database Management Systems Course - 2nd - Mohamed El Desouki](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=bxZbDVj6WSixP7Rj)
+  - [Relational Database Internals (Arabic - عربي)](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)
+  - [شرح كتاب Designing data intensive applications بالعربي](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)
+  - [Lec 1 Choosing a datastore - كيف تختار نظام تخزين البيانات](https://www.youtube.com/watch?v=5m0WUzspsAs)
+  - [Lec 2 Database migrations - بالعربي](https://www.youtube.com/watch?v=TmVRKDoMulE)
+  -
+- English
 
----
+  - [Fundamentals of Database Engineering - Paid](https://www.udemy.com/course/database-engines-crash-course/)
+  - [CMU Intro to Database Systems (Fall 2023)](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g)
+- General ITI Matirial
 
-## **Operating Systems**
+  - [SQL Arabic - Eng.Rami](https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2)
+  - [Eng.Rami (Sql Notes)](https://drive.google.com/drive/folders/1PvaQay1-cddCIegXObp5X5DW8cXpCo85)
+  - [ Database Course Notes By.Amr - Notion]([https://whispering-narcissus-931.notion.site/ITI-Database-Course-By_Amr-112de9a262fa80a8bff9ed9233477068](https://github.com/amrabd/DataBase-Coures-ITI)https://whispering-narcissus-931.notion.site/ITI-Database-Course-By_Amr-112de9a262fa80a8bff9ed9233477068)
+  - [Assignments Drive](https://drive.google.com/drive/u/0/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1)
+  - [SQL Labs - Soluotions](https://github.com/ayahkenawy/ITI-Tasks/tree/main/SQL%20Labs)
+- Practice Problems
+
+  - [LeetCode - Top-sql-50](https://leetcode.com/studyplan/top-sql-50])
+  - [HackerRank](https://www.hackerrank.com/domains/sql)
+  - [SQL Practice](https://www.sql-practice.com)
+
+## Operating Systems5️⃣
 
 ### **Overview**
 
@@ -519,8 +536,6 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 > - Before starting your track, ensure you’ve:
 > - Completed at least the lecture content.
 > - Gained a solid understanding of the basics.
-
----
 
 ### **What the Course Includes**
 
@@ -541,8 +556,6 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
      - Apply theoretical knowledge to practical scenarios, integrating what you’ve learned throughout the course.
      - Include this project in your CV to showcase your skills for internship or job opportunities!
 
----
-
 ### **Resources**
 
 - **Video Playlists**:
@@ -555,19 +568,9 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 - **Supplementary Material**:
 
   - [Google Drive for Materials (including text book)](https://drive.google.com/drive/folders/1ExkmYfMLUcBO6_cWhPPPZ-9H597VmbHb)
+  - [Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/tree/master/coursepages/ostep#roadmap)
 
----
-
-#### **Additional Notes**
-
-- This course is perfect for students aiming to deepen their understanding of **Operating Systems** concepts.
-- Dedicate enough time for the **project**; it’s a critical component that ties all theoretical knowledge together with practical application.
-- If you're short on time, you can alternatively take this course:
-  - [Operating Systems - by Dr. Ahmed Hagag](https://www.youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)
-
----
-
-## **Networking**
+## Networking6️⃣
 
 ### **Overview**
 
@@ -582,34 +585,26 @@ _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Q
 >   - Completed at least 5 chapters.
 >   - Gained a good grasp of basic networking concepts.
 
----
-
 ### **What the Course Includes ?**
 
 This course on computer networking is built around a top-down approach, focusing on the Internet’s architecture and protocols, starting from the application layer down to the physical layer. It covers essential networking principles, including reliable communication, path determination, and security fundamentals like cryptography.
-
----
 
 ### **Resources**
 
 - **Video Playlists:**
 
-  - [Computer Networking | Lectures](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)
+  - [Computer Networking | Lectures](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp) _**Recommended**_
   - [Computer Networking by Droos Tech Online](https://www.youtube.com/playlist?list=PLYljoJMAPFLHrCVfzuMLkJOZHhCgfSXG-)
 - **Supplementary Material:**
 
-  - [Powerpoint Slides](https://gaia.cs.umass.edu/kurose_ross/ppt.php) _(Recommended)_
   - [Dr Ayman's Slydes](https://drive.google.com/drive/folders/1jYleCLMeSqTCS2VbGxwfGXA5CqFFaP92)
+  - [All programming assignments in "Computer Networks: A Top Down Approach" implemented with documentation](https://github.com/54skyxenon/networks-projects)
+- Textbook:
 
----
+  - [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
+  - [محتوي الكتاب](https://teachyourselfcs.com/#networking)
 
-### **Textbook:**
-
-This course is based on _Computer Networking: A Top Down Approach (8th Edition)_ by J.F. Kurose and K.W. Ross, a widely adopted textbook used in universities around the world for introductory networking courses.
-
-- [Find more information about the textbook](https://gaia.cs.umass.edu/kurose_ross/index.php)
-
-# Software Engineering 
+# Software Engineering7️⃣
 
 > _Notes_:
 >
@@ -621,23 +616,17 @@ This course is based on _Computer Networking: A Top Down Approach (8th Edition)_
 
 Software Engineering focuses on the systematic design, development, testing, and maintenance of software systems to ensure they meet user requirements and are reliable, scalable, and maintainable. It teaches principles like modular design, agile methodologies, and quality assurance, essential for building robust systems. Studying SWE is crucial for learning how to manage complex projects, work effectively in teams, and deliver high-quality software solutions. in development, it provides the foundation for creating scalable architectures, writing efficient code, and collaborating with other stakeholders, making it integral to succeeding in the tech industry.
 
----
-
 ### **Resources**
 
 - **Video Playlists:**
 
   - [Software Engineering by HTI CS](https://www.youtube.com/playlist?list=PLCXxeGQt1gBy4KBPhXgf-JWMZrv6aHXB1)
   - [CS251 Software Engineering by Amr S. Ghoneim](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-)
-  - You’ll need to search for additional content and explanations, as there are no clear Arabic resources available for this textbook. Be sure to explore multiple sources to ensure comprehensive understanding or read directly from the textbook.
+  -
 - **Supplementary Material:**
 
   - [Powerpoint Slides](https://software-engineering-book.com/slides/)
 
----
-
 ### **Textbook:**
-
-The **Software Engineering, Tenth Edition** textbook, provides an in-depth exploration of software engineering methods, tools, and techniques. It includes new chapters on systems engineering, resilience engineering, and systems of systems, broadening its scope. The book is designed for both introductory (our focus) and advanced courses, offering a comprehensive resource for students and professionals looking to understand and apply software development principles.
 
 - [Find more information about the textbook](https://software-engineering-book.com/)
