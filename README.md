@@ -28,7 +28,7 @@
 
 ---
 
-## 🧭 Fundamental of Programming Roadmap 1️⃣
+# 🧭 Fundamental of Programming 1️⃣
 
 الرودماب دي مليانة مصادر للشرح والحل، وكافية جدًا إنك بعد ما تخلصها يكون عندك **أساس قوي جدًا** تقدر تكمل بيه في المرحلة اللي بعدها، وهي OOP.
 
@@ -288,13 +288,7 @@
 - [Mini-Project - library](https://youtu.be/zzuhhAuW5FY)
 - [AskMe](https://youtu.be/xNu6L_pidUo)
 
----
-
-🎥 **Next Roadmap Preview**: [Your Next Steps](https://www.youtube.com/watch?v=YPKfSyOQxmI&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=41&t=47s)
-
----
-
-## 🧭 Object-Oriented Programming Roadmap 2️⃣
+# 🧭 Object-Oriented Programming 2️⃣
 
 - **Topics Covered:**
   _Introduction to OOP, Classes and Objects, Encapsulation, Abstraction, Inheritance, Polymorphism, Multiple Inheritance, Interface, Abstract Classes vs Interfaces, Composition vs Inheritance_
@@ -304,10 +298,16 @@
 - [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
 - [C++ Object-Oriented _Design_ and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) _Recommended_
 - [Object-Oriented Programming C++ in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
+- [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
-### **Articles**
+### **Read it..!**
 
+- [From Objects to Code: A Beginner's Guide to OOP](https://medium.com/@abdulrahmanshaheen/object-oriented-programming-b3da1c86fee6)
 - [مدونة الطبراني](https://tabarani.tk/articles)
+- [The Top 10 Object-Oriented Design Interview Questions Developers Should Know](https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39)
+- [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)
+- [learning path focused on practices of software development, principles of software design, and software architecture.](https://github.com/joebew42/study-path)
+- [The 7 Most Important Software Design Patterns](https://learningdaily.dev/the-7-most-important-software-design-patterns-d60e546afb0e)
 
 📌 Before solving any assignments, make sure you have thoroughly reviewed the relevant explanations or resources I’ve mentioned earlier! ✅📖
 
@@ -333,6 +333,7 @@
 
 - [EducationalManagementSystem](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
 - [OnlineBookReader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
+- [Useful OOP Projects](https://drive.google.com/drive/folders/1G523fKsRp6bNCzt_005c7vBHe7Ni5Mt1)
 
 ## **Data Structures and Algorithms** 3️⃣
 
@@ -340,62 +341,147 @@
 
 _Asymptotic Complexity, Vector, Singly Linked List, Doubly Linked List, Stack, Queue, Binary Tree, Binary Search Tree, Binary Heap, AVL Tree, Letter Tree (Trie), Hash Table_
 
-- _Prerequisites._
+2 pointers technique & Sliding window, Sorting Algorithms (Merge, Quick, Heap Sort, etc.), Binary Search, Graph Algorithms (BFS, DFS, Dijkstra, Kruskal, Prim), Dynamic Programming, Backtracking
+
+> Videos will be from diffrent resources you can check this complete Playlists and watch any topic
+>
+> - [Data structures playlist - WilliamFiset](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsB6SWUrDFW2RmDotAfPbeHu)
+> - [Data Structures Full Course In Arabic - Adel Nasim](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+> - [DSA - Abdul Bari](https://www.youtube.com/watch?v=0IAPZzGSbME&list=PLAXnLdrLnQpRcveZTtD644gM9uzYqJCwr)
+> - [Data Structures - Full Course Using C and C++](https://youtu.be/B31LgI4Y4DQ?si=shSYCDm0mCJZlaVw)
+> - [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://youtu.be/RBSGKlAvoiM?si=aBleRZ5UcapBil46)
+> -
+
+## 📖 Topics Videos
+
+- **Prerequisites.**
 
   - [دورة الداتا والالجورزمس: محاضرة مجانية 2 - مراجعة كلاسيز وبوينترز](https://youtu.be/zaGyD_BY8XQ?si=k3Migkpr3ezAwYwL)
-- _Static & Dynamic memory Allocation._
+  - [Pointers in C / C++ [Full Course]](https://www.youtube.com/watch?v=zuegQmMdy8M)
+- **Static & Dynamic memory Allocation**
 
   - [C++ Data Structures - تراكيب البيانات (First 3 Vedios)](https://www.youtube.com/playlist?list=PL1DUmTEdeA6JlommmGP5wicYLxX5PVCQt)
-- _Linear Data Structures Visually:._
+- **Linear Data Structures Visually**
 
   - [Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-- _STL._
+- **STL**
 
-  > It Is A MUST To Know It Before Non Linear Data Structures
+  > Note that STLs are not standalone topics but powerful tools that help in solving various problems efficiently. Mastering them will improve your implementation speed and optimize solutions good To Know It Before Non Linear Data Structures
   >
 
   - First: [Competitive Programming - AAST by Muhammad Magdi (From 5 -> 8)](https://youtube.com/playlist?list=PLw2JSXGww1ORU9v3h8jBS_bNz-ngSW2wk)
   - Second: [Standard Template Library (STL) Full Tutorial Using C++ In Arabic](https://www.youtube.com/playlist?list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3)
-- _Vector._
+- **Vector**
 
   - [محاضرة مجانية - دورة الداتا والالجورزمس - فيكتور 1](https://www.youtube.com/watch?v=hKzd0NqiKRw)
   - [محاضرة مجانية - دورة الداتا والالجورزمس - فيكتور 2](https://www.youtube.com/watch?v=_95k4JDn2J4)
-- _Asymptotic Complexity._
+- **Asymptotic Complexity**
 
   - _Theoretical_
+
     - [Algorithms - Spring 2021 by Ahmed Salah ELDin](https://www.youtube.com/playlist?list=PLpfYfulQlEPzTlSF6sdnMj3XdxgQdT06w)
-  - _Practical_
+    - [[Data Structures] - Complexity](https://youtu.be/sHhVsGQz9MI?si=KhyUr0QvryxhI13i)
     - [Asymptotic Complexity 1 (Arabic)](https://www.youtube.com/watch?v=SmxZQpW_zA4)
-    - [Asymptotic Complexity 1 (Arabic)](https://www.youtube.com/watch?v=krRT_US9Ll0)
+    - [Asymptotic Complexity 2 (Arabic)](https://youtu.be/krRT_US9Ll0?si=DFeP--tWB8_7keFL)
+    - [1.5.1 Time Complexity #1](https://youtu.be/9TlHvipP5yA?si=DOJ_t4W9JJVrxdQk)
+  - _Practical_
+
     - [Complexity Analysis (1 / 2) by Muhammad Magdi](https://www.youtube.com/watch?v=wEbdQeVwLlo)
     - [Complexity Analysis (2 / 2) by Muhammad Magdi](https://www.youtube.com/watch?v=o5zf5oVHtn0)
-- _2 pointers technique & Sliding window._
+- **2 pointers technique & Sliding window.**
 
   - [Two Pointers Technique by Ahmed Gamal](https://www.youtube.com/watch?v=uplty7GJ9qg)
   - [Two pointers technique (Arabic)](https://www.youtube.com/watch?v=n-Xwrr8RFQ0)
-- _Linked Lists (SLL & DLL)._
+- **Linked Lists (SLL & DLL).**
 
-  - _Mega Code_
+  - Arabic videos
+
     - [linked list Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-  - _WilliamFiset_
+    - [Data Structures - LinkedList](https://www.youtube.com/watch?v=e6zJaMxzciA&t=920s)
+  - English videos
+
     - [Linked Lists Introduction](https://www.youtube.com/watch?v=-Yn5DU0_-lw)
     - [Doubly Linked List Code](https://www.youtube.com/watch?v=m-8ZBO2ywaU)
   - for Technical Interviews
-    - [Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
-- _Stack & Queue._
 
-  - _Mega Code_
+    - [Linked Lists for Technical Interviews - Full Course](https://www.youtube.com/watch?v=Hj_rA0dhr2I)
+- **Stack & Queue**
+
+  - Arabic videos
     - [linked list Mega Code](https://www.youtube.com/playlist?list=PLsGJzJ8SQXTcsXRVviurGei0lf_t_I4D8)
-  - _WilliamFiset_
+  - English videos
     - [Stack](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsC0FVi9Rshi-5fFU1QwcFQ1)
     - [Queue](https://www.youtube.com/playlist?list=PLDV1Zeh2NRsAWrxWRTHJrsgBrbwqGzt-z)
-- _Binary Tree._
+- **Binary Tree**
 
-  - []()
+  - Arabic videos
+    - [Tree Data Structure (1/3) [كود مصري]](https://youtu.be/rVKfofRnXvk?si=_SXt6KHcvnJkTEJ4)
+    - [](https://youtu.be/5NImEfD9tFc?si=v_Z0uE2C8qarMfEo)
+    - [](https://youtu.be/mxxa-HfYGss?si=4fnSlREgEMiQIKyK)
+  - English videos
+  - For Technical Interviews
+- Binary Search Tree
 
----
+  - Arabic videos
+    - [](https://youtu.be/jB7vseYRJcA?si=YpLVmsVNqof4rsF7)
+    - [](https://youtu.be/aydX3efdtTg?si=0JrLwtpQfEd4J0EM)
+    -
+  - English videos
+  - For Technical Interviews
 
-## **Databases** 4️⃣
+* **AVL Tree**
+
+  - Arabic videos
+
+    - [](https://youtu.be/TBadaja07R0?si=FrcdIyXN4EJV0Hco)
+    - [](https://youtu.be/NA43jWj5Fpg?si=IaTazBNxyGIJwXqV)
+    - [](https://youtu.be/jlMYJz4Qchw?si=VqqUn6mBCCjSSxUB)
+  - English videos
+  - For Technical Interviews
+
+- Trie
+
+  - Arabic videos
+  - English videos
+  - For Technical Interviews
+- Hash Table
+
+  - Arabic videos
+  - English videos
+  - For Technical Interviews
+- Sorting
+
+  - Arabic videos
+    - [Sorting Algorithms [كود مصري]](https://www.youtube.com/watch?v=KYSv6FY7_kM&list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV)
+  - English videos
+  - For Technical Interviews
+- Binary Search
+
+  - Arabic videos
+  - English videos
+  - For Technical Interviews
+- Graph Algorithms
+
+  - Arabic videos
+
+    - [**Intro To Graph Theory**](https://www.youtube.com/watch?v=1GoPuSih2ag)
+    - [**Depth-First Search (DFS)**](https://www.youtube.com/watch?v=1vB2F3wtJfw&t=18s)
+    - [BFS & Graph Applications](https://www.youtube.com/watch?v=AuGNPvbfy4A&list=PL06TMXRpUI1QA6NX5k3iENWE10D4EuxKq&index=8&t=11313s)
+    - [Dijkstra Algorithm](https://www.youtube.com/watch?v=qH8DusU744o)
+  - English videos
+  - For Technical Interviews
+- Dynamic Programming
+
+  - Arabic videos
+  - English videos
+  - For Technical Interviews
+- Backtracking
+
+  - Arabic videos
+  - English videos
+  - For Technical Interviews
+
+  # Databases 4️⃣
 
 #### **_A Comprehensive Roadmap for MASTERING Databases_**
 
@@ -529,40 +615,7 @@ This course is based on _Computer Networking: A Top Down Approach (8th Edition)_
 
 - [Find more information about the textbook](https://gaia.cs.umass.edu/kurose_ross/index.php)
 
----
-
-## **System Analysis and Design**
-
-### **Overview**
-
-> **Note:** It’s recommended to study **SAAD (Systems Analysis and Design)** before **SWE (Software Engineering)** because SAAD provides essential foundational concepts like system modeling, requirements gathering, and process design, which are crucial for understanding and developing software systems effectively before diving into the engineering and implementation-focused aspects of SWE.
-
----
-
-### **What the Course Includes ?**
-
-This course focuses on understanding user requirements, analyzing system needs, and designing solutions. Key topics include project management, use case analysis, process modeling, system design, and information system implementation, with hands-on experience in developing user-centered systems.
-
----
-
-### **Resources**
-
-- **Video Playlists:**
-
-  - [Systems Analysis & Design by Dr. Alshaimaa A. Tantawy](https://www.youtube.com/playlist?list=PLMzaNeHCFdm-0QIV9CuFZpIi_4-nKH4Xi)
-  - there is no slides .. check the textbook or take notes/screenshots with the vedios !
-
----
-
-### **Textbook:**
-
-The course uses _Systems Analysis and Design_ by Wixom & Roth (5th Edition, 2012), which covers the entire systems development life cycle, including methods for analyzing, designing, and building information systems. Topics include requirements gathering, use case analysis, process modeling, and system implementation.
-
-- [textbook](https://www.nguyenthihoi.com/TAI%20LIEU%20CHO%20SINH%20VIEN/Systems_Analysis_Design_UML_5th%20ed.pdf)
-
----
-
-## **Software Engineering**
+# Software Engineering 
 
 > _Notes_:
 >
@@ -594,10 +647,3 @@ Software Engineering focuses on the systematic design, development, testing, and
 The **Software Engineering, Tenth Edition** textbook, provides an in-depth exploration of software engineering methods, tools, and techniques. It includes new chapters on systems engineering, resilience engineering, and systems of systems, broadening its scope. The book is designed for both introductory (our focus) and advanced courses, offering a comprehensive resource for students and professionals looking to understand and apply software development principles.
 
 - [Find more information about the textbook](https://software-engineering-book.com/)
-
-## Computer Science Roadmaps
-
-- [Roadmap For Level 1 (Master Fundamental Of Programming with C++)](https://github.com/Ahmedhany-1/CS-Roadmap/blob/main/Programming%20Level%201%20Learning%20Roadmap.md)
-- Roadmap For Level 2 (Master Object Oriented Programming) - Under Progress
-- Roadmap For Level 3 (Master Data Structures) - Under Progress
-- Roadmap For Level 4 (Master Algorithm) - Under Progress
