@@ -95,7 +95,8 @@
 
 ### 📖 Topics & Resources
 
-<details> <summary>1.1 🌟 Introduction to Programming</summary> **📚 Learning Resources:**
+<details> <summary>1.1 🌟 Introduction to Programming</summary> 
+ _📚 Learning Resources:_
 
 * 🎥 [Intro to Programming](https://youtu.be/2ak8Kca69BE?si=n0x7wrsIcSkjsQS6)
 * 🎥 [Problem Solving Fundamentals](https://youtu.be/bIvvEgDg0GM?si=u1prOQhgNSZnUxLD)
@@ -104,8 +105,10 @@
 * 🎥 [Compilers and IDEs](https://youtu.be/USt9NVsZryc?si=Gs7PJc_EeZVWvaU2)
 * 🛠️ [Install Code Blocks](https://youtu.be/JuQvdv3eiMw?si=1ComurpdCpn5_B5F)
 
-</details> <details> <summary>1.2 🖨️ Printing</summary> **📚 Learning Resources:**
+---
 
+</details> <details> <summary>1.2 🖨️ Printing</summary> 
+ 📚 Learning Resources:
 * 🎥 [Basic Printing](https://youtu.be/vN3wEox3UH4?si=_DD__27awgIROemo)
 * 🎥 [Dr. Mostafa Saad - Printing](https://youtu.be/EN1kX4HIPgs?si=d1zJZ1KEdgYD30p9)
 * 🎥 [Elzero - Printing Basics](https://youtu.be/6UoFcvARKI4?si=Ro656zdE3sEd3v9W)
@@ -114,7 +117,10 @@
 
 * 📋 [Printing Homework](https://youtu.be/EN1kX4HIPgs?si=gtmf8wJ_Gu8lRycN&t=891)
 
-</details> <details> <summary>1.3 📊 Data Types and Variables</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.3 📊 Data Types and Variables</summary>
+ 📚 Learning Resources:
 
 * 🎥 [Data Types Fundamentals](https://youtu.be/mo6zUZZShTA?si=c50fejcA_MXyMlS2)
 * 🎥 [Data Types Part 2](https://youtu.be/aak1z7syTsQ?si=pNEU0NdUdsUdLDTs)
@@ -129,7 +135,10 @@
 
 * 📋 [Data Types Homework](https://youtu.be/ncwIeshX7Kk?si=ZI_P08TOnzA8yblt&t=1477)
 
-</details> <details> <summary>1.4 🔣 Logical Operators</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.4 🔣 Logical Operators</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Logical Operators Basics](https://www.youtube.com/watch?si=VjJ30hJLgMWIAlLn&v=2pA6e25BJpQ&feature=youtu.be)
 * 🎥 [Comparison Operators](https://www.youtube.com/watch?v=xpznDlbgQPM)
@@ -139,7 +148,10 @@
 
 * 📋 [Logical Operators Homework](https://youtu.be/qmHE9QISuVQ?si=zZGaCiGElJdgYSXZ&t=1509)
 
-</details> <details> <summary>1.5 ➗ Division and Modulus</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.5 ➗ Division and Modulus</summary>
+ 📚 Learning Resources:
 
 * 🎥 [Arithmetic Operators](https://www.youtube.com/watch?v=m84cz1kwJaA)
 * 🎥 [Increment/Decrement](https://www.youtube.com/watch?v=S37s4hbeIS4)
@@ -151,7 +163,10 @@
 
 * 📋 [Division & Modulus Tasks](https://youtu.be/jJVaDl_dePk?si=r7YtuCKlCKKt0snC&t=1087)
 
-</details> <details> <summary>1.6 🎯 Selection (Conditions)</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.6 🎯 Selection (Conditions)</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [If Conditions Part 1](https://www.youtube.com/watch?v=7RdjR3PyrGk)
 * 🎥 [If Conditions Part 2](https://www.youtube.com/watch?v=OKDtXbT7Jcs)
@@ -165,7 +180,10 @@
 * 🏆 **Track 1**: [Codeforces Sheet #1](https://codeforces.com/group/MWSDmqGsZm/contest/219158)
 * 📚 **Track 2**: [Selection Homework](https://youtu.be/xmjB7u7mHWE?si=WN4v8U1aYLeTuS9_&t=1417)
 
-</details> <details> <summary>1.7 🔄 Loops</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.7 🔄 Loops</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Loop Sessions 1-7 (SVU)](https://www.youtube.com/watch?v=ww5f1U-7pnI)*[Complete Series]*
 * 🎥 [While Loops Introduction](https://www.youtube.com/watch?v=qVBi98-XJ3s)
@@ -180,7 +198,10 @@
   * [While Loops Homework](https://www.youtube.com/watch?v=yLNNnX59jO8&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=13)
   * [For Loops Homework](https://www.youtube.com/watch?v=mNotKsNLyxo&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=16)
 
-</details> <details> <summary>1.8 📊 Arrays</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.8 📊 Arrays</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Array Sessions 1-8 (SVU)](https://www.youtube.com/watch?v=8V8HfgVVPbY)*[Complete Series]*
 * 🎥 [1D Arrays Introduction](https://www.youtube.com/watch?v=0HT2-2qD654)
@@ -197,7 +218,10 @@
   * [Char Arrays Homework](https://www.youtube.com/watch?v=ZKE4VZHS9IY&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=22)
   * [2D Arrays Homework](https://www.youtube.com/watch?v=GUJlDqIMFVA&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=25)
 
-</details> <details> <summary>1.9 ⚙️ Functions</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.9 ⚙️ Functions</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Functions Introduction](https://www.youtube.com/watch?v=z61hvizsrZs)
 * 🎥 [Functions Practice](https://www.youtube.com/watch?v=ksh0QLTaWt0)
@@ -209,7 +233,10 @@
 * 🏆 **Track 1**: [Codeforces Sheet #5](https://codeforces.com/group/MWSDmqGsZm/contest/223205)
 * 📚 **Track 2**: [Functions Homework](https://www.youtube.com/watch?v=Lu3z4rfU-2s&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=28)
 
-</details> <details> <summary>1.10 🔄 Recursion</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.10 🔄 Recursion</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Recursion Introduction](https://www.youtube.com/watch?si=f3jdBjCOXK07ath1&v=ZlyYQqYj2W8&feature=youtu.be)
 * 🎥 [Recursion Deep Dive (4-part series)](https://www.youtube.com/watch?v=t0cHKEof1S8)
@@ -223,7 +250,10 @@
   * [Video Solutions](https://www.youtube.com/watch?v=jAobHD1YaJo&list=PLhgRx-N_jLx0eE2sm3xs3BouPG06RR97t)
 * 📚 **Track 2**: [Recursion Homework](https://www.youtube.com/watch?v=OUxtZa4jyq4&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=33)
 
-</details> <details> <summary>1.11 🏗️ Structures (Struct)</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.11 🏗️ Structures (Struct)</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Structures Introduction](https://www.youtube.com/watch?si=7nZ2JWYvqKNbIZdn&v=ZdULFEUxL6w&feature=youtu.be)
 * 🎥 [Structures Practice](https://www.youtube.com/watch?v=nF_26HU6ekQ)
@@ -232,7 +262,10 @@
 
 * 📋 [Structures Homework](https://www.youtube.com/watch?v=zzuhhAuW5FY&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=31)
 
-</details> <details> <summary>1.12 📚 STL (Standard Template Library)</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.12 📚 STL (Standard Template Library)</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [STL Introduction (3-part series)](https://www.youtube.com/watch?v=ypxNh-pTqOo)
 * 📚 [Complete STL Playlist](https://www.youtube.com/playlist?list=PLCInYL3l2AainAE4Xq2kdNGDfG0bys2xp)
@@ -245,17 +278,25 @@
   * [STL Practice #3](https://codeforces.com/group/3nQaj5GMG5/contest/374321)
 * 📚 **Track 2**: [STL Homework](https://www.youtube.com/watch?v=POpxu3kUT6M&list=PLPt2dINI2MIbwnEoeHZnUHeUHjTd8x4F3&index=37)
 
-</details> <details> <summary>1.13 🎯 Pointers</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.13 🎯 Pointers</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Pointers in C++](https://www.youtube.com/watch?v=38IG-UToeZ0)
 * 📚 [Complete Pointers Playlist](https://www.youtube.com/playlist?list=PLwCMLs3sjOY6z3264DylWHcHBtmEjUWrA)
 * 🎥 [Pointers Introduction](https://www.youtube.com/watch?v=h-HBipu_1P0&list=PL2_aWCzGMAwLZp6LMUKI3cc7pgGsasm2_)
 
-</details> <details> <summary>1.14 🐛 Debugging</summary> **📚 Learning Resources:**
+---
+
+</details> <details> <summary>1.14 🐛 Debugging</summary> 
+ 📚 Learning Resources:
 
 * 🎥 [Debug in CLion](https://www.youtube.com/watch?v=q8YQi6YXQj8)
 * 🎥 [Debug in Code Blocks](https://www.youtube.com/watch?v=XNdATcXPm-w&t=39s)
 * 🎥 [C++ Debugging Basics](https://www.youtube.com/watch?v=k42SbQIZYuU)
+
+---
 
 </details> <details> <summary>🎓 Final Steps - Projects</summary> 
 
