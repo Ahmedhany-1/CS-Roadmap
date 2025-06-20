@@ -31,12 +31,12 @@
 لما نتكلم عن أساسيات المجال يمكن تقسيمها إلى 4 مواد رئيسية تُعتبر "Core" وهي:
 
 
-| Subject                               |   | Description                       |
-| ------------------------------------- | - | --------------------------------- |
-| **Fundamental of Programming**        | 1 | Programming basics and logic      |
-| **Object-Oriented Programming (OOP)** | 2 | Classes, objects, and inheritance |
-| **Data Structures**                   | 3 | Arrays, linked lists, trees, etc. |
-| **Algorithms**                        | 4 | Problem-solving techniques        |
+| Subject                               |
+| ------------------------------------- | 
+| **Fundamental of Programming**        | 
+| **Object-Oriented Programming (OOP)** | 
+| **Data Structures**                   | 
+| **Algorithms**                        |     
 
 
 ### 📚 مواد تانية مهمة تحت بند الأساسيات
@@ -55,20 +55,11 @@
 > Playlists & Talks لفهم الأساسيات، النصائح، والتوجيه الأكاديمي والمهني للطلبة.
 
 
-- 🔥 [سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)  
-  *(أهم فيديوهات لمساعدة الطلبة في اختيار المسار الأكاديمي والوظيفي)*  
-
-- 💬 [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)  
-  *(لقاءات مباشرة تحتوي على نصائح متنوعة وتجارب حقيقية)*
-
-- 📖 [نصائح لمستقبل أفضل](https://www.youtube.com/watch?v=-ON5YZySTUI&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=3)  
-  *(نقاشات عامة عن التخصصات وفرص سوق العمل)*
-
-- 👨‍🎓 [سنة أولى وتانية حاسبات](https://www.youtube.com/watch?v=njGvWw6fSdY&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=5)  
-  *(نصائح مباشرة للطلبة الجدد في الكلية)*
-
-- 🎥 [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)  
-  *(فيديوهات تقنية متنوعة وشرح مفيد للعديد من المواضيع)*
+- [سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)  
+- [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)  
+- [نصائح لمستقبل أفضل](https://www.youtube.com/watch?v=-ON5YZySTUI&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=3)  
+- [سنة أولى وتانية حاسبات](https://www.youtube.com/watch?v=njGvWw6fSdY&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=5)  
+- [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)  
 
 ---
 
@@ -78,13 +69,21 @@
 
 الرودماب دي مليانة مصادر للشرح والحل، وكافية جدًا إنك بعد ما تخلصها يكون عندك **أساس قوي جدًا** تقدر تكمل بيه في المرحلة اللي بعدها، وهي OOP.
 
-<details> <summary>💡 General Guidelines - إرشادات عامة</summary> > * 📺 **Watch Multiple Sources**: Don't rely on just one explanation
-> * 🔄 **Repeat & Review**: Watch videos 2-3 times for better understanding
-> * ⏸️ **Practice First**: Pause before solutions and try solving yourself
-> * 🧠 **Think While Learning**: Active thinking = Active learning
-> * ⏰ **Don't Rush**: This foundation phase is crucial - invest time here
+<details>
+<summary>💡 General Guidelines - إرشادات عامة</summary>
 
-</details> ### 🏋️‍♂️ Homework Tracks
+- 🎯 **Diversify Sources** – متكتفيش بمصدر واحد، اسمع من كذا حد علشان تفهم بشكل أوسع  
+- 🔁 **Repeat for Mastery** – ارجع للفيديوهات مرتين أو تلاتة علشان التثبيت  
+- ⏸️ **Practice Before Watching Solutions** – جرب تحل بنفسك قبل ما تشوف الحل  
+- 🧠 **Think Actively While Watching** – خلي دماغك شغالة مش بس بتسمع  
+- 🕓 **Take Your Time** – مفيش داعي للاستعجال، المرحلة دي أساس لباقي الطريق  
+- ✍️ **Apply What You Learn** – طبّق على طول بأي مشروع أو تمارين بسيطة
+
+</details>
+
+
+
+### 🏋️‍♂️ Homework Tracks
 
 في البداية هتلاقي مسارين للحل، اختار واحد بس وامشي عليه:
 
@@ -92,7 +91,7 @@
 | Track           | Platform   | Description                                        | Solutions                                                                                                         |
 | --------------- | ---------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | **Track 1**     | Codeforces | Assuit Sheets - Competitive Programming Format     | [Setup Guide](https://www.youtube.com/watch?v=WIvV_HoOruE&list=PLkay_Ly8rNnaAIxbyAtCWai2D7wRB5eZ1)                |
-| **Track 2** ⭐ | Custom     | Dr. Mostafa Saad Problems (Easy → Medium → Hard) | [GitHub Solutions](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/tree/master/18-Programming-4kids) |
+| **Track 2** ⭐ | Recommended     | Dr. Mostafa Saad Problems (Easy → Medium → Hard) | [GitHub Solutions](https://github.com/mostafa-saad/ArabicCompetitiveProgramming/tree/master/18-Programming-4kids) |
 
 ### 📖 Topics & Resources
 
@@ -258,7 +257,7 @@
 * 🎥 [Debug in Code Blocks](https://www.youtube.com/watch?v=XNdATcXPm-w&t=39s)
 * 🎥 [C++ Debugging Basics](https://www.youtube.com/watch?v=k42SbQIZYuU)
 
-</details> ### 🎓 Next Steps - Projects
+</details> <details> <summary>🎓 Final Steps - Projects</summary> 
 
 * [Mini-Project - Hospital](https://youtu.be/Lu3z4rfU-2s)
 * [Mini-Project - Library](https://youtu.be/zzuhhAuW5FY)
