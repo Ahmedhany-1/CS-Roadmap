@@ -21,11 +21,9 @@
 * [Software Engineering](#software-engineering)
 * [Acknowledgments](#acknowledgments)
 
-## الأساسيات (Fundamentals)
+# الأساسيات (Fundamentals)
 
-### Core Subjects
-
-When discussing the fundamentals of the field, they can be divided into 4 main subjects considered as "Core":
+لما نتكلم عن أساسيات المجال يمكن تقسيمها إلى 4 مواد رئيسية تُعتبر "Core" وهي:
 
 | Subject                               |
 | ------------------------------------- | 
@@ -36,7 +34,7 @@ When discussing the fundamentals of the field, they can be divided into 4 main s
 
 ### مواد تانية مهمة تحت بند الأساسيات
 
-Important subjects that you also need to study, but if you are a computer science student, you will likely already be studying them in college.
+مواد مهمة برضو محتاج تزاكرها ولكن لو كنت طالب حاسبات فغالبًا هتكون بتدرسها بالفعل في الكلية تم ذكر المواد دي في فيديو الدكتور مصطفى سعد.
 
 **These subjects were mentioned in Dr. Mostafa Saad's video.*
 
@@ -59,10 +57,10 @@ Important subjects that you also need to study, but if you are a computer scienc
 [![Level](https://img.shields.io/badge/Level-Beginner-green.svg)](https://github.com/)
 [![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
 
-This roadmap is full of resources for explanation and problem-solving, and is sufficient for you to have a **very strong foundation** after completing it, enabling you to continue to the next stage, which is OOP.
+الرودماب دي مليانة مصادر للشرح والحل، وكافية جدًا إنك بعد ما تخلصها يكون عندك أساس قوي جدًا تقدر تكمل بيه في المرحلة اللي بعدها، وهي OOP.
 
 <details>
-<summary>General Guidelines - إرشادات عامة</summary>
+<summary>General Guidelines - إرشادات عامة </summary>
 
 - **Diversify Sources** – Don't rely on just one source, listen to multiple people for broader understanding  
 - **Repeat for Mastery** – Return to videos two or three times for reinforcement  
@@ -73,9 +71,10 @@ This roadmap is full of resources for explanation and problem-solving, and is su
 
 </details>
 
-### Homework Tracks
+## Homework Tracks
 
-At the beginning, you will find two tracks for problem-solving. Choose only one and follow it:
+في البداية هتلاقي مسارين للحل الاتنين كويسين انا بفضل مساردكتور مصطفي اختار واحد بس وامشي عليه وممكن لما تخلص الكورس ترجع تحل سريعا علي المسار التاني :
+
 
 | Track           | Platform   | Description                                        | Solutions                                                                                                         |
 | --------------- | ---------- | -------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -325,12 +324,12 @@ At the beginning, you will find two tracks for problem-solving. Choose only one 
 
 </details>
 
-## Object-Oriented Programming
+# Object-Oriented Programming
 
 [![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/) 
 [![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
 
-### Learning Resources
+## Learning Resources 
 
 <details>
 <summary>Video Playlists</summary>
@@ -390,7 +389,7 @@ At the beginning, you will find two tracks for problem-solving. Choose only one 
 [![Level](https://img.shields.io/badge/Level-Advanced-red.svg)](https://github.com/)
 [![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
 
-## Main Learning Resources
+### Main Learning Resources
 
 <details>
 <summary>Core Video Playlists</summary>
@@ -403,7 +402,7 @@ At the beginning, you will find two tracks for problem-solving. Choose only one 
 
 </details>
 
-## Problem Solving & Practice
+### Problem Solving & Practice
 
 <details>
 <summary>Assignment & Problem Solving Platforms</summary>
@@ -419,7 +418,7 @@ At the beginning, you will find two tracks for problem-solving. Choose only one 
 
 </details>
 
-## Detailed Topics & Resources
+## Detailed Topics & Resources 
 
 ### Fundamentals
 
@@ -823,210 +822,318 @@ At the beginning, you will find two tracks for problem-solving. Choose only one 
 
 ---
 
-# 🗄️ Databases 4️⃣
+# Database 
 
-[![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)[![Database](https://img.shields.io/badge/Database-SQL-blue.svg)](https://github.com/)
+[![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)
+[![Database](https://img.shields.io/badge/Database-SQL-blue.svg)](https://github.com/)
 
-### 📋 Learning Path Overview
+##  Overview
 
-Learning Path by [Sayed Alesawy](https://www.linkedin.com/in/sayed-alesawy/) (Lead Software Engineer at Instabug)
-
-<details> <summary>🎯 4-Stage Learning Approach</summary> ### Stage 1: Database Design 🏗️
-
-Learn to read problems, extract entities and relationships, translate to database tables, choose appropriate data types, understand normal forms, and differentiate between normalization and denormalization.
-
-### Stage 2: Database Operations 🛠️
-
-Master SQL for selecting data, creating aggregations, manipulating data, creating views, using triggers, and building summary tables.
-
-### Stage 3: Database Internals ⚙️
-
-Understand storage mechanisms, memory management, encoding/compression, indexes, performance tuning, isolation levels, concurrency, query execution, and database maintenance.
-
-### Stage 4: Advanced Topics 🚀
-
-Explore distributed databases, replication, sharding, and failure recovery.
-
-</details> ### 📚 Learning Resources
-
-<details> <summary>🎥 Arabic Video Resources</summary> | Resource                                                                                                                          | Instructor         | Description                |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------- | ---------------------------- |
-| [Database 1st](https://youtu.be/yLc0Yp5QZlU?si=uHlANL7Ig9OoMb-t)                                                                     | Mohamed El Desouki | Foundation course          |
-| [Database Fundamentals](https://maharatech.gov.eg/course/view.php?id=740)                                                            | Maharatech         | Government platform course |
-| [Database Management Systems Course - 2nd](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=bxZbDVj6WSixP7Rj) | Mohamed El Desouki | Advanced concepts          |
-| [Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF)                            | Arabic Content     | Deep dive into internals   |
-| [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ)                    | Arabic Explanation | Book walkthrough           |
-
-</details> <details> <summary>🎥 English Video Resources</summary> | Resource                                                                                               | Platform      | Description               |
-| -------------------------------------------------------------------------------------------------------- | --------------- | --------------------------- |
-| [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/)       | Udemy         | Paid comprehensive course |
-| [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g) | CMU Fall 2023 | University-level course   |
-
-</details> <details> <summary>📚 ITI Materials & SQL Resources</summary> | Resource              | Type           | Link                                                                                                            |
-| ----------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------------- |
-| SQL Arabic Course     | Video Playlist | [Eng. Rami](https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2)                              |
-| SQL Notes             | Documentation  | [Drive Folder](https://drive.google.com/drive/folders/1PvaQay1-cddCIegXObp5X5DW8cXpCo85)                           |
-| Database Course Notes | Notion         | [By Amr](https://whispering-narcissus-931.notion.site/ITI-Database-Course-By_Amr-112de9a262fa80a8bff9ed9233477068) |
-| Assignments           | Drive          | [Solutions](https://drive.google.com/drive/u/0/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1)                          |
-| SQL Labs Solutions    | GitHub         | [Repository](https://github.com/ayahkenawy/ITI-Tasks/tree/main/SQL%20Labs)                                         |
-
-</details> ### 🏋️‍♂️ Practice Problems
-
-
-| Platform                                                           | Focus                | Difficulty |
-| ------------------------------------------------------------------ | -------------------- | ---------- |
-| [LeetCode - Top SQL 50](https://leetcode.com/studyplan/top-sql-50) | Interview Prep       | ⭐⭐⭐     |
-| [HackerRank SQL](https://www.hackerrank.com/domains/sql)           | General Practice     | ⭐⭐       |
-| [SQL Practice](https://www.sql-practice.com/)                      | Interactive Learning | ⭐         |
-
-### 📖 Recommended Books
-
-* **Fundamentals of Database Systems** - Ramez Almasri *(Arabic Author)*
-* **Database System Concepts** - Alternative comprehensive textbook
-* **High Performance MySQL** - For internals and optimization
-* **Distributed Systems for Fun and Profit** - For advanced distributed concepts
+**Learning Path by [Sayed Alesawy](https://www.linkedin.com/in/sayed-alesawy/)** *(Lead Software Engineer at Instabug)*
 
 ---
 
-# 💻 Operating Systems 5️⃣
+##  Learning Stages
 
-[![Level](https://img.shields.io/badge/Level-Advanced-red.svg)](https://github.com/)[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/)
+<details>
+<summary><strong>Stage 1: Database Design </strong></summary>
 
-## 🌟 Course Overview
+**Focus**: Database Architecture & Design Principles
 
-> 📌 **Important:** This is a comprehensive undergraduate course by **Dr. Ahmed Salah** from Ain Shams University, integrating resources from top universities: **Berkeley**, **UMass**, **Stanford**, and **MIT**.
+في المرحلة دي المفترض إنك بتتعلم ال design، يعنى بتتعلم ازاى تقرأ مشكلة وتطلع ال entities منها وتطلع ال relations بينهم وتترجم ده لى database tables وتختار ال data types المناسبة، وتتعلم حاجات زى ال normal forms و الفرق بين ال normalization و ال de normalization وهكذا. كمان هنا ممكن تتعلم عن ال different data models الى موجودة زى مثلا ايه الفرق بين ال relational و ال document models مثلا وغيرهم.
 
-<details> <summary>💡 Success Tips</summary> * ⏰ **Take your time** - This course builds crucial foundations, don't rush
-* 📚 **Complete lectures first** before moving to practical work
-* 🧠 **Understand basics thoroughly** before advancing
-* 🎯 **Focus on concepts** rather than memorization
+**Key Concepts:**
+- Entity-Relationship Modeling
+- Data Types Selection
+- Normalization & De-normalization
+- Database Models (Relational vs Document)
 
-</details> ### 📋 What You'll Learn
+</details>
 
-<details> <summary>🎯 Course Components</summary> ### 1. 📺 Lectures
+<details>
+<summary><strong>Stage 2: Database Operations </strong></summary>
 
-Comprehensive explanations of core OS topics, laying groundwork for understanding Operating Systems.
+**Focus**: SQL Mastery & Database Manipulation
 
-### 2. 🛠️ Sections
+في المرحلة دي إنك تتعلم ازاى بقى تعمل حاجات مفيدة بال database دى، فا تتعلم SQL مثلا، ازاى تكتب حاجات بت select data او بتعمل aggregations او بت manipulate ال data دى وهكذا. وكمان حاجات ازاى تعمل مثلا views وتستخدم triggers وتعمل summary tables وكده.
+**Key Skills:**
+- SQL Query Writing
+- Data Selection & Filtering
+- Aggregations & Grouping
+- Views, Triggers, and Stored Procedures
+- Data Manipulation (INSERT, UPDATE, DELETE)
 
-Hands-on, interactive problem-solving sessions designed to reinforce concepts learned in lectures.
+</details>
 
-### 3. 📝 Assignments (Sheets)
+<details>
+<summary><strong>Stage 3: Database Internals </strong></summary>
 
-Practice problems to help solidify your knowledge and prepare for exams.
+**Focus**: Performance Optimization & System Architecture
 
-### 4. 🚀 Major Project
+في المرحلة دي انك تبتدى تتعلم عن ال database internals, مثلا ال storage شعالة ازاى، ازاى ال data دى موجودة على ال disk وبتتجاب ازاى، وال memory management بتحصل ازاى، و ال encoding و ال compression الى ممكن يكون بيحصل لل data، و ال indexes مثلا عاملة ازاى، ايه انواعها وايه مميزات وعيوب كل نوع، وازاى تعرف تستخدمها وتعمل performance tuning كويس، وتتعلم مثلا عن حاجات عن زى ال isolation levels و ازاى ال database بتتعامل مع ال concurrency، وتتعلم حاجات زى ال query execution بيحصل ازاى، وازاى ال query optimizer بيشتغل مثلا وتعرف اهم انواع queries بتتعمل ازاى، زى مثلا ال joins و ال ordering و ال sub queries و ال common table expressions والحاجات تبقى فاهم بتشتغل ازاى عشان تستخدمها صح وتعرف ال performance impact بتاعها وازاى تعملها optimizations وهكذا. كمان تتعلم عن ال database maintenance، تعرف انهى operations ممكن تتعمل online وايه لا وتقدر تعمل migrations من غير ما تسبب downtime وكده.
 
-* Build an **Operating System** using **C**
-* Solve challenging problems related to OS concepts
-* Apply theoretical knowledge to practical scenarios
-* **Perfect for your CV** to showcase skills for internships/jobs!
 
-</details> ### 📚 Learning Resources
+**Advanced Topics:**
+- Storage Mechanisms & Memory Management
+- Indexing Strategies & Performance Tuning
+- Concurrency Control & Isolation Levels
+- Query Execution & Optimization
+- Database Maintenance & Migrations
+- Join Algorithms & Execution Plans
 
-<details> <summary>🎥 Video Playlists</summary> | Component                  | Playlist                                                                                                          | Description              |
-| ---------------------------- | ------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| **Lectures**⭐       | [Operating Systems | Lectures | Fall 2024](https://www.youtube.com/playlist?list=PLpfYfulQlEPyavmKP24AhTtdzD2OZ-qgk) | Core theoretical content |
-| **Sections**         | [Operating Systems | Sections](https://www.youtube.com/playlist?list=PLmEgjtU1dGftDXEVVoSlasGzfeWOsHobS)             | Practical sessions       |
-| **Problem Sessions** | [Operating Systems | Problem Sessions](https://www.youtube.com/playlist?list=PLpfYfulQlEPyqVD4VVw3HtdLb8DGBqIKb)     | Problem solving          |
-| **Project**🔥        | [Operating Systems | FALL 2024 | PROJECT](https://www.youtube.com/playlist?list=PLpfYfulQlEPxcG4On42egRf8k-0IZEdqQ)  | Major project guidance   |
-| **Revision**         | [Operating Systems - Revision](https://www.youtube.com/playlist?list=PLpfYfulQlEPzG9UYlnYITAOpW1ZEH2NUi)             | Exam preparation         |
+</details>
 
-</details> <details> <summary>📁 Supplementary Materials</summary> * 📂 [Google Drive Materials](https://drive.google.com/drive/folders/1ExkmYfMLUcBO6_cWhPPPZ-9H597VmbHb)*(includes textbook)*
-* 📖 [Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/tree/master/coursepages/ostep#roadmap)
+<details>
+<summary><strong>Stage 4: Advanced Topics </strong></summary>
 
-</details> ---
+**Focus**: Distributed Systems & Scalability
 
-## 🌐 Networking 6️⃣
+في المرحلة الأخيرة انك تبتدى تتعلم اكتر بقى عن المواضيع المتقدمة زى ال distributed databaes و ال replication و ال sharding و ال failure recovery وهكذا.
 
+**Enterprise Concepts:**
+- Distributed Database Systems
+- Replication Strategies
+- Sharding & Partitioning
+- Disaster Recovery & High Availability
+
+</details>
+
+<details>
+<summary><strong> Resources </strong></summary>
+
+> اول مرحلة دى اى كتاب بيتكلم عن fundamentals of databases هيبقى كفاية اول كام chapter منهم. وده عموما الجزء الى بيدرس فى أغلب الجامعات. اشهر كتاب اظن عدا علينا كلنا، fundamentals of database systems بتاع رامز المصرى. او فيه كتاب تانى اسمه Database systems concepts لطيف برضه. هتقرأ لحد chapter 9, ده هيغطى معاك الجزء التانى كمان.
+> 
+> لو قريت لحد chapter 9، فا كده تمام. حاول ت practice بقى انك تحل مسائل تكتب فيها queries، ممكن تلاقى على hackerrank او dataford او غيرهم. ده برضه بيدرس فى أغلب الجامعات ولكن مش كل حاجة.
+>    
+> ده برضه غالبا لو كملت فى اى كتاب fundamentals هتلاقى بيغطى الجزء. انا بحب high performance mysql أكتر هنا بصراحة. ده ممكن اصعب جزء ومهم حدا بيفرق مستوى الناس عن بعض جامد، وجامعات قليلة جدا الى بتدرس شويه مواضيع منه.
+>    
+> دى معرفش كتب فى الحوار ده، بس فيه papers حلوة بقى زى ال papers بتاعة AWS Aurora مثلا. وعموما هيبقى مفيد هنا لو اتعلمت distributed systems concepts الاول عشان تفهم. ممكن تقرأ مثلا distributed systems for fun and profit كتاب صغير جدا بيقدم الموضوع بشكل كويس.
+>
+> لو انت من الناس الى بتحب ال courses، خصوصا لو طالب وعندم وقت وطاقة تقعد بقى تقرا slides وتعمل assignments و projects. ارشحلك CMU
+
+
+</details>
+
+---
+
+##  Learning Resources
+
+<details>
+<summary><strong> Arabic Video Resources</strong></summary>
+
+| Resource | Instructor | Description | Level |
+|----------|------------|-------------|-------|
+| [Database 1st](https://youtu.be/yLc0Yp5QZlU?si=uHlANL7Ig9OoMb-t) | Mohamed El Desouki | Foundation course | Beginner |
+| [Database Fundamentals](https://maharatech.gov.eg/course/view.php?id=740) | Maharatech | Government platform course | Beginner |
+| [Database Management Systems Course - 2nd](https://youtube.com/playlist?list=PL1DUmTEdeA6Lg6CXlnxEDhwpmWB0QaDh5&si=bxZbDVj6WSixP7Rj) | Mohamed El Desouki | Advanced concepts | Intermediate |
+| [Relational Database Internals](https://www.youtube.com/playlist?list=PLE8kQVoC67PzGwMMsSk3C8MvfAqcYjusF) | Arabic Content | Deep dive into internals | Advanced |
+| [Designing Data Intensive Applications](https://www.youtube.com/playlist?list=PLTRDUPO2OmIljJwE9XMYE_XEgEIWZDCuQ) | Arabic Explanation | Book walkthrough | Advanced |
+
+</details>
+
+<details>
+<summary><strong> English Video Resources</strong></summary>
+
+| Resource | Platform | Description | Level |
+|----------|----------|-------------|-------|
+| [Fundamentals of Database Engineering](https://www.udemy.com/course/database-engines-crash-course/) | Udemy | Paid comprehensive course | Intermediate |
+| [CMU Intro to Database Systems](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbj8BMuIrRcacnQh20hmY9g) | CMU Fall 2023 | University-level course | Advanced |
+
+</details>
+
+<details>
+<summary><strong> ITI Materials & SQL Resources</strong></summary>
+
+| Resource | Type | Provider | Link |
+|----------|------|----------|------|
+| SQL Arabic Course | Video Playlist | Eng. Rami | [Watch Here](https://www.youtube.com/playlist?list=PLAowHBw9BCw5b56-SfY7tgndHbGcQycp2) |
+| SQL Notes | Documentation | Drive Folder | [Access Here](https://drive.google.com/drive/folders/1PvaQay1-cddCIegXObp5X5DW8cXpCo85) |
+| Database Course Notes | Notion | By Amr | [View Notes](https://whispering-narcissus-931.notion.site/ITI-Database-Course-By_Amr-112de9a262fa80a8bff9ed9233477068) |
+| Assignments | Drive | Solutions | [Download](https://drive.google.com/drive/u/0/folders/1pt_I5AoF85jDwd9j8MZwrO-sNp_JP1n1) |
+| SQL Labs Solutions | GitHub | Repository | [View Code](https://github.com/ayahkenawy/ITI-Tasks/tree/main/SQL%20Labs) |
+
+</details>
+
+---
+
+##  Practice Platforms
+
+| Platform | Focus | Difficulty | Recommended For |
+|----------|-------|------------|-----------------|
+| [LeetCode - Top SQL 50](https://leetcode.com/studyplan/top-sql-50) | Interview Preparation | ⭐⭐⭐ | Job Seekers |
+| [HackerRank SQL](https://www.hackerrank.com/domains/sql) | General Practice | ⭐⭐ | All Levels |
+| [SQL Practice](https://www.sql-practice.com/) | Interactive Learning | ⭐ | Beginners |
+
+---
+
+##  Essential Reading
+
+<details>
+<summary><strong> Core Textbooks</strong></summary>
+
+ - **Fundamentals of Database Systems** Ramez Almasri
+*الكتاب الأساسي لتعلم أساسيات قواعد البيانات، يُدرّس في معظم الجامعات العربية. اقرأ حتى Chapter 9 لتغطية المرحلتين الأولى والثانية.*
+
+- **Database System Concepts** Alternative Comprehensive Textbook 
+*بديل ممتاز للكتاب السابق مع شرح واضح للمفاهيم الأساسية.*
+
+- **High Performance MySQL** For Internals and Optimization 
+*مفضل للمرحلة الثالثة لفهم الأداء والتحسين الداخلي لقواعد البيانات.*
+
+- **Distributed Systems for Fun and Profit** For Advanced Concepts 
+*كتاب صغير وقيم لفهم أساسيات الأنظمة الموزعة قبل دراسة قواعد البيانات الموزعة.*
+
+</details>
+
+*This learning path is continuously updated based on industry best practices and community feedback.*
+
+---
+
+# Operating Systems
+[![Level](https://img.shields.io/badge/Level-Advanced-red.svg)](https://github.com/)
+[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/)
+
+**Instructor**: Dr. Ahmed Salah, Ain Shams University  
+**Level**: Advanced  
+**Prerequisites**: Strong foundation in C programming
+
+### Course Structure
+
+The Operating Systems course consists of four main components designed to provide comprehensive understanding of system-level programming and OS concepts.
+
+#### 1. Lectures
+Comprehensive theoretical coverage of core operating system topics, establishing the conceptual foundation necessary for understanding modern operating systems.
+
+#### 2. Sections
+Interactive problem-solving sessions designed to reinforce theoretical concepts through practical application and hands-on exercises.
+
+#### 3. Assignments
+Structured practice problems that solidify knowledge and prepare students for comprehensive examinations and real-world application.
+
+#### 4. Major Project
+- **Objective**: Build a functional Operating System using C programming language
+- **Scope**: Solve complex problems related to OS concepts and implementation
+- **Application**: Apply theoretical knowledge to practical, industry-relevant scenarios
+- **Career Impact**: Excellent portfolio addition for internships and job applications
+
+### Learning Resources
+
+#### Video Content
+
+| Component | Description |
+|-----------|-------------|
+| **Lectures** | [Operating Systems Lectures - Fall 2024](https://www.youtube.com/playlist?list=PLpfYfulQlEPyavmKP24AhTtdzD2OZ-qgk) |
+| **Sections** | [Operating Systems Sections](https://www.youtube.com/playlist?list=PLmEgjtU1dGftDXEVVoSlasGzfeWOsHobS) |
+| **Problem Sessions** | [Operating Systems Problem Sessions](https://www.youtube.com/playlist?list=PLpfYfulQlEPyqVD4VVw3HtdLb8DGBqIKb) |
+| **Project** | [Operating Systems Project - Fall 2024](https://www.youtube.com/playlist?list=PLpfYfulQlEPxcG4On42egRf8k-0IZEdqQ) |
+| **Revision** | [Operating Systems Revision](https://www.youtube.com/playlist?list=PLpfYfulQlEPzG9UYlnYITAOpW1ZEH2NUi) |
+
+#### Supplementary Materials
+
+- [Course Materials - Google Drive](https://drive.google.com/drive/folders/1ExkmYfMLUcBO6_cWhPPPZ-9H597VmbHb) *(includes required textbook)*
+- [Operating Systems: Three Easy Pieces](https://github.com/ossu/computer-science/tree/master/coursepages/ostep#roadmap)
+
+---
+
+# Computer Networking
 [![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)[![Protocol](https://img.shields.io/badge/Protocol-TCP/IP-green.svg)](https://github.com/)
 
-### 🌟 Course Overview
+**Instructor**: Prof. Ayman M. Bahaa-Eldin, Computer and Systems Engineering Department, Ain Shams University  
+**Textbook**: Computer Networking: A Top Down Approach (8th Edition) by Kurose & Ross  
+**Level**: Intermediate
 
-> 📌 **Course by:****Prof. Ayman M. Bahaa-Eldin** from Computer and Systems Engineering Department, Ain Shams University
-> 📖 **Based on:***Computer Networking: A Top Down Approach* (8th Edition) by Kurose & Ross
+### Course Methodology
 
-<details> <summary>💡 Learning Approach</summary> ### 🔝 Top-Down Methodology
+This course employs a **top-down approach**, beginning with the application layer and progressing systematically to the physical layer. The curriculum emphasizes:
 
-This course uses a **top-down approach**, starting from the application layer and working down to the physical layer, focusing on:
+- Internet architecture and protocol implementation
+- Principles of reliable communication systems
+- Path determination algorithms and routing protocols
+- Network security fundamentals and cryptographic methods
 
-* Internet architecture and protocols
-* Reliable communication principles
-* Path determination algorithms
-* Security fundamentals and cryptography
+### Important Study Notes
 
-### ⚠️ Important Notes
+- **Supplementary Content**: Missing slides and Chapter 6 materials are comprehensively covered by Droos Tech Online
+- **Study Pace**: Allocate sufficient time for thorough understanding of each module
+- **Prerequisites**: Complete at least 5 chapters before advancing to specialized tracks
+- **Resource Integration**: Utilize multiple sources for comprehensive understanding
 
-* **Missing slides and Chapter 6** are thoroughly explained by **Droos Tech Online**
-* Take your time to study each module carefully
-* Complete **at least 5 chapters** before moving to your specialized track
+### Learning Resources
 
-</details> ### 📚 Learning Resources
+#### Video Content
 
-<details> <summary>🎥 Video Playlists</summary> | Source                  | Playlist                                                                                                          | Focus                      | Priority                |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------- | ---------------------------- | ------------------------- |
-| **Prof. Ayman**⭐ | [Computer Networking | Lectures](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp)           | Main course content        | **Primary**       |
-| **Droos Tech**    | [Computer Networking by Droos Tech Online](https://www.youtube.com/playlist?list=PLYljoJMAPFLHrCVfzuMLkJOZHhCgfSXG-) | Missing topics & Chapter 6 | **Supplementary** |
+| Source | Focus | Priority Level |
+|--------|-------|----------------|
+| [Prof. Ayman - Computer Networking Lectures](https://www.youtube.com/playlist?list=PLy_2fgXkPiZuMaG9Jmp8PAwimIumf19hp) | Primary course content | **Primary** |
+| [Droos Tech Online - Computer Networking](https://www.youtube.com/playlist?list=PLYljoJMAPFLHrCVfzuMLkJOZHhCgfSXG-) | Missing topics & Chapter 6 | **Supplementary** |
 
-</details> <details> <summary>📁 Course Materials</summary> * 📊 [Dr. Ayman's Slides](https://drive.google.com/drive/folders/1jYleCLMeSqTCS2VbGxwfGXA5CqFFaP92)
-* 💻 [Programming Assignments with Documentation](https://github.com/54skyxenon/networks-projects)
+#### Course Materials
 
-</details> <details> <summary>📖 Textbook & References</summary> * 📘 **Primary:**[Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
-* 📋 [Book Content Overview](https://teachyourselfcs.com/#networking)
+- [Dr. Ayman's Course Slides](https://drive.google.com/drive/folders/1jYleCLMeSqTCS2VbGxwfGXA5CqFFaP92)
+- [Programming Assignments with Documentation](https://github.com/54skyxenon/networks-projects)
 
-</details> ---
+#### Textbook and References
 
-# ⚙️ Software Engineering 7️⃣
+- **Primary Text**: [Computer Networking: A Top-Down Approach](https://teachyourselfcs.com/#networking)
+- **Content Overview**: [Detailed Book Content Guide](https://teachyourselfcs.com/#networking)
 
+---
+
+## Software Engineering
 [![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)[![Methodology](https://img.shields.io/badge/Methodology-Agile-blue.svg)](https://github.com/)
 
-### 🎯 Course Overview
+**Level**: Intermediate  
+**Focus**: Systematic software development methodologies and practices
 
-Software Engineering focuses on the systematic design, development, testing, and maintenance of software systems. It teaches essential principles for building robust, scalable, and maintainable systems while working effectively in teams.
+### Course Overview
 
-<details> <summary>🌟 Why Study Software Engineering?</summary> ### 🔑 Key Benefits:
+Software Engineering encompasses the systematic approach to designing, developing, testing, and maintaining large-scale software systems. The curriculum emphasizes essential principles for building robust, scalable, and maintainable software while fostering effective team collaboration.
 
-* **Project Management:** Learn to handle complex software projects
-* **Team Collaboration:** Work effectively with stakeholders and developers
-* **Quality Assurance:** Deliver reliable, high-quality software solutions
-* **Scalable Architecture:** Build systems that grow with business needs
-* **Industry Readiness:** Essential foundation for tech industry success
+### Learning Objectives
 
-### 📋 Core Topics:
+#### Core Benefits
+- **Project Management**: Master complex software project handling and coordination
+- **Team Collaboration**: Develop effective communication skills with stakeholders and development teams
+- **Quality Assurance**: Learn to deliver reliable, high-quality software solutions
+- **Scalable Architecture**: Design systems that accommodate business growth and evolution
+- **Industry Preparation**: Build essential foundations for technology industry success
 
-* Modular design principles
-* Agile methodologies and project management
-* Software testing and quality assurance
-* System architecture and design patterns
-* Requirements engineering and documentation
+#### Key Topics
+- Modular design principles and architecture patterns
+- Agile methodologies and project management frameworks
+- Comprehensive software testing and quality assurance strategies
+- System architecture design and implementation patterns
+- Requirements engineering and technical documentation
 
-</details> ### ⚠️ Important Study Notes
+### Study Guidelines
 
-<details> <summary>📚 Study Guidelines</summary> ### 📖 Focus Areas:
+#### Focus Areas
+1. **Primary Material**: Master the first 8 chapters from the provided course slides
+2. **Resource Strategy**: Integrate multiple sources as no single resource provides complete coverage
+3. **Foundation First**: Achieve deep understanding of core concepts before advancing
+4. **Supplementary Learning**: Use additional resources for clarification and reinforcement
 
-1. **Primary Material:** Study the **first 8 chapters** from the provided slides
-2. **Resource Strategy:** No single source covers everything - use multiple resources
-3. **Deep Understanding:** Focus on grasping key concepts from slides first
-4. **Supplementary Learning:** Use additional sources only for clarification
+#### Learning Approach
+- Establish mastery of foundational concepts before progressing to advanced topics
+- Apply principles through practical examples and case studies
+- Connect theoretical concepts to real-world software development scenarios
+- Build comprehensive understanding for specialized career tracks
 
-### 🎯 Learning Approach:
+### Learning Resources
 
-* Master foundational concepts before advanced topics
-* Understand principles through practical examples
-* Apply concepts to real-world scenarios
-* Build a solid base for specialized tracks
+#### Video Content
 
-</details> ### 📚 Learning Resources
+| Source | Institution | Focus |
+|--------|-------------|-------|
+| [HTI CS - Software Engineering](https://www.youtube.com/playlist?list=PLCXxeGQt1gBy4KBPhXgf-JWMZrv6aHXB1) | HTI | Comprehensive overview |
+| [Amr S. Ghoneim - CS251 Software Engineering](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-) | Academic | Structured course delivery |
 
-<details> <summary>🎥 Video Playlists</summary> | Source                   | Playlist                                                                                                | Institution | Focus                  |
-| -------------------------- | --------------------------------------------------------------------------------------------------------- | ------------- | ------------------------ |
-| **HTI CS**         | [Software Engineering by HTI CS](https://www.youtube.com/playlist?list=PLCXxeGQt1gBy4KBPhXgf-JWMZrv6aHXB1) | HTI         | Comprehensive overview |
-| **Amr S. Ghoneim** | [CS251 Software Engineering](https://www.youtube.com/playlist?list=PLsnvpvHuTUbC-yJkvcf-Stp_kLwfesnn-)     | Academic    | Structured course      |
+#### Course Materials
 
-</details> <details> <summary>📊 Course Materials</summary> * 📂 [PowerPoint Slides](https://software-engineering-book.com/slides/) - **Primary study material**
-* 📖 [Textbook Information](https://software-engineering-book.com/) - Additional reference
+- [PowerPoint Slides](https://software-engineering-book.com/slides/) - **Primary study material**
+- [Textbook Information](https://software-engineering-book.com/) - Additional reference
 
-</details> <details> <summary>📋 Chapter Breakdown</summary> ### 🔢 Required Chapters (1-8):
+#### Required Curriculum (Chapters 1-8)
 
 1. **Introduction to Software Engineering**
 2. **Software Processes**
@@ -1037,60 +1144,41 @@ Software Engineering focuses on the systematic design, development, testing, and
 7. **Design and Implementation**
 8. **Software Testing**
 
-### 📈 Advanced Chapters (9+):
-
-*To be studied later after mastering fundamentals*
-
-</details> ---
-
-## 🙏 Acknowledgments
-
-### 👨‍🏫 Special Thanks
-
-We extend our heartfelt gratitude to all the incredible educators and content creators who made this learning path possible:
-
-<details> <summary>🌟 Featured Instructors</summary> | Instructor                           | Contribution                        | Institution          |
-| -------------------------------------- | ------------------------------------- | ---------------------- |
-| **Dr. Mostafa Saad**           | Programming Fundamentals & Guidance | -                    |
-| **Dr. Ahmed Salah ELDin**      | Operating Systems & Algorithms      | Ain Shams University |
-| **Prof. Ayman M. Bahaa-Eldin** | Computer Networking                 | Ain Shams University |
-| **Mohamed El Desouki**         | Database Systems                    | -                    |
-| **Sayed Alesawy**              | Database Learning Path              | Instabug             |
-| **Ahmed Ayman**                | Database Resources Curation         | -                    |
-
-</details> <details> <summary>🎥 Content Creators</summary> * **Mega Code** - Visual data structures explanations
-* **كود مصري** - Arabic programming tutorials
-* **Droos Tech Online** - Networking supplementary content
-* **WilliamFiset** - Data structures comprehensive playlist
-* **Muhammad Magdi** - Competitive programming guidance
-* **Adel Nasim** - Data structures in Arabic
-* **Abdul Bari** - Algorithm explanations
-
-</details> ### 🏛️ University Resources
-
-* **Carnegie Mellon University (CMU)** - Database systems
-* **University of California, Berkeley** - Operating systems
-* **Stanford University** - System design concepts
-* **Massachusetts Institute of Technology (MIT)** - Computer science fundamentals
-
-### 🌐 Community Contributions
-
-Special recognition to the open-source community and Arabic tech content creators who make computer science education accessible to Arabic-speaking students worldwide.
+**Note**: Advanced chapters (9+) should be studied after mastering fundamental concepts.
 
 ---
 
-### 📞 Connect & Contribute
+## Acknowledgments
 
-[![GitHub](https://img.shields.io/badge/GitHub-Contribute-black.svg)](https://github.com/)[![Community](https://img.shields.io/badge/Community-Join%20Us-blue.svg)](https://github.com/)
+We extend our appreciation to the distinguished educators who contributed to this comprehensive learning path:
 
-**Found this helpful?** ⭐ Star the repository and share with fellow learners!
-
-**Want to contribute?** 🤝 We welcome improvements, additional resources, and translations.
+| Instructor | Contribution |
+|------------|--------------|
+| **Dr. Mostafa Saad** | Programming Fundamentals & Academic Guidance | 
+| **Dr. Ahmed Salah ELDin** | Operating Systems & Algorithm Design | 
+| **Prof. Ayman M. Bahaa-Eldin** | Computer Networking | 
+| **Mohamed El Desouki** | Database Systems |
+| **Ahmed El-Khoriby** | Roadmap Resources
+| **Sayed Alesawy** | Database Learning Path Development | 
+| **Ahmed Ayman** | Database Resources Curation |
 
 ---
 
-<div align="center"> ### 🚀 **Happy Learning & Building Amazing Software!** 🚀
+## Contributing
 
-[![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red.svg)](https://github.com/)[![Arabic Content](https://img.shields.io/badge/Language-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-green.svg)](https://github.com/)[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue.svg)](https://github.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-Contribute-black.svg)](https://github.com/)
+[![Community](https://img.shields.io/badge/Community-Join%20Us-blue.svg)](https://github.com/)
+
+We welcome contributions, additional resources, and curriculum improvements. Please star the repository if you find it valuable and share with fellow students and educators.
+
+---
+
+<div align="center">
+
+**Advancing Computer Science Education Through Collaborative Learning**
+
+[![Made with Care](https://img.shields.io/badge/Made%20with-Care-red.svg)](https://github.com/)
+[![Arabic Content](https://img.shields.io/badge/Language-العربية-green.svg)](https://github.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue.svg)](https://github.com/)
 
 </div>
