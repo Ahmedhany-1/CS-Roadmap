@@ -96,7 +96,7 @@
 ### 📖 Topics & Resources
 
 <details> <summary>1.1 🌟 Introduction to Programming</summary> 
- _📚 Learning Resources:_
+ 📚 Learning Resources:
 
 * 🎥 [Intro to Programming](https://youtu.be/2ak8Kca69BE?si=n0x7wrsIcSkjsQS6)
 * 🎥 [Problem Solving Fundamentals](https://youtu.be/bIvvEgDg0GM?si=u1prOQhgNSZnUxLD)
@@ -109,6 +109,7 @@
 
 </details> <details> <summary>1.2 🖨️ Printing</summary> 
  📚 Learning Resources:
+ 
 * 🎥 [Basic Printing](https://youtu.be/vN3wEox3UH4?si=_DD__27awgIROemo)
 * 🎥 [Dr. Mostafa Saad - Printing](https://youtu.be/EN1kX4HIPgs?si=d1zJZ1KEdgYD30p9)
 * 🎥 [Elzero - Printing Basics](https://youtu.be/6UoFcvARKI4?si=Ro656zdE3sEd3v9W)
