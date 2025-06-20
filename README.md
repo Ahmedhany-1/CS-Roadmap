@@ -59,10 +59,13 @@
 > Playlists and talks for understanding fundamentals, tips, and academic and professional guidance for students.
 
 - [سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)  
-- [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)  
+- [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)
+- [أزاي تشتغل في البرمجة , نصايح من مبرمج حقيقي ⭐ | حقيقة التاسيس وتأثير الذكاء الاصطناعي علي المبرمجين](https://youtu.be/IwmhclSiqpU?si=gmMZf94YzsmkyKqN)
 - [نصائح لمستقبل أفضل](https://www.youtube.com/watch?v=-ON5YZySTUI&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=3)  
 - [سنة أولى وتانية حاسبات](https://www.youtube.com/watch?v=njGvWw6fSdY&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=5)  
-- [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)  
+- [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)
+- [Psychological Concerns in Competitive Programming (Arabic)](https://youtu.be/IwmhclSiqpU?si=cTESqF9OIYlo_yV3)
+- [خواطر - اربع مستويات للداتا ستركشرز والجورزمس](https://www.youtube.com/live/YwkEC_zhBp4?si=-eogw6XyeO-SMNje)
 
 ## Programming Fundamentals
 
