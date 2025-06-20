@@ -63,7 +63,7 @@
 
 ---
 
-## 🧭 Programming Fundamentals 1️⃣
+# 🧭 Programming Fundamentals 1️⃣
 
 [![Level](https://img.shields.io/badge/Level-Beginner-green.svg)](https://github.com/)[![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
 
@@ -263,55 +263,68 @@
 * [Mini-Project - Library](https://youtu.be/zzuhhAuW5FY)
 * [AskMe](https://youtu.be/xNu6L_pidUo)
 
----
+</details>
 
-## 🧭 Object-Oriented Programming 2️⃣
+# 🧭 Object-Oriented Programming 2️⃣
 
-[![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)[![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
+[![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/) [![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
 
-**Topics Covered:***Introduction to OOP, Classes and Objects, Encapsulation, Abstraction, Inheritance, Polymorphism, Multiple Inheritance, Interface, Abstract Classes vs Interfaces, Composition vs Inheritance*
+## 📚 Learning Resources
 
-### 📚 Learning Resources
+<details>
+<summary>🎥 Video Playlists</summary>
 
-<details> <summary>🎥 Video Playlists</summary> * [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
-* ⭐ [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)*Recommended*
+* [Programming 2 - Object Oriented Programming with C++](https://www.youtube.com/playlist?list=PL1DUmTEdeA6KLEvIO0NyrkT91BVle8BOU)
+* ⭐ [C++ Object-Oriented Design and Programming](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG) *Recommended*
 * [Object-Oriented Programming C++ in Arabic](https://www.youtube.com/playlist?list=PLCInYL3l2Aaiq1oLvi9TlWtArJyAuCVow)
 * [Composition over Inheritance](https://www.youtube.com/watch?v=wfMtDGfHWpA)
 
-</details> <details> <summary>📖 Reading Materials</summary> * [From Objects to Code: A Beginner's Guide to OOP](https://medium.com/@abdulrahmanshaheen/object-oriented-programming-b3da1c86fee6)
+</details>
+
+<details>
+<summary>📖 Reading Materials</summary>
+
+* [From Objects to Code: A Beginner's Guide to OOP](https://medium.com/@abdulrahmanshaheen/object-oriented-programming-b3da1c86fee6)
 * [مدونة الطبراني](https://tabarani.tk/articles)
 * [The Top 10 Object-Oriented Design Interview Questions Developers Should Know](https://hackernoon.com/the-top-10-object-oriented-design-interview-questions-developers-should-know-c7fc2e13ce39)
 * [Why SOLID principles are still the foundation for modern software architecture](https://stackoverflow.blog/2021/11/01/why-solid-principles-are-still-the-foundation-for-modern-software-architecture/)
 * [Learning path focused on practices of software development, principles of software design, and software architecture](https://github.com/joebew42/study-path)
 * [The 7 Most Important Software Design Patterns](https://learningdaily.dev/the-7-most-important-software-design-patterns-d60e546afb0e)
 
-</details> > 📌 **Important Note:** Before solving any assignments, make sure you have thoroughly reviewed the relevant explanations or resources mentioned above! ✅📖
+</details>
 
-### 📝 Assignments
+> 📌 **Important Note:** Before solving any assignments, make sure you have thoroughly reviewed the relevant explanations or resources mentioned above! ✅📖
+
+## 📝 Assignments
 
 * [🎯 Main Homework from this playlist](https://www.youtube.com/playlist?list=PLPt2dINI2MIbMba7tpx3qvmgOsDlpITwG)
 
-<details> <summary>🔥 Additional Practice Problems</summary> | Topic                  | Link                                                                                           |
-| ------------------------ | ------------------------------------------------------------------------------------------------ |
-| OOP                    | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_oop1)                    |
-| Classes and Objects    | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_classes1)                |
-| Class Methods          | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_class_methods1)          |
-| Constructor            | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_constructors1)           |
-| Access Specifier       | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_access_specifiers1)      |
-| Encapsulation          | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_encapsulation1)          |
-| Inheritance            | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance1)            |
-| Multilevel Inheritance | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance_multilevel1) |
-| Multiple Inheritance   | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance_multiple1)   |
-| Inheritance Access     | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance_access1)     |
-| Polymorphism           | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_polymorphism1)           |
+<details>
+<summary>🔥 Additional Practice Problems</summary>
 
-</details> ### 🎓 Projects
+| Topic                  | Link                                                                                           |
+| ---------------------- | ---------------------------------------------------------------------------------------------- |
+| OOP                    | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_oop1)                |
+| Classes and Objects    | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_classes1)            |
+| Class Methods          | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_class_methods1)      |
+| Constructor            | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_constructors1)       |
+| Access Specifier       | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_access_specifiers1)  |
+| Encapsulation          | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_encapsulation1)      |
+| Inheritance            | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance1)        |
+| Multilevel Inheritance | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance_multilevel1) |
+| Multiple Inheritance   | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance_multiple1) |
+| Inheritance Access     | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_inheritance_access1) |
+| Polymorphism           | [W3Schools Exercise](https://www.w3schools.com/cpp/exercise.asp?x=xrcise_polymorphism1)       |
+
+</details>
+
+## 🎓 Projects
 
 * [Educational Management System](https://youtu.be/hsEGVVu7_lE?si=utxjbP1oieQLYMcV)
 * [Online Book Reader](https://youtu.be/Rk8vrmSpFII?si=hlSwtzXZu9r0OdlZ)
 * [Useful OOP Projects Collection](https://drive.google.com/drive/folders/1G523fKsRp6bNCzt_005c7vBHe7Ni5Mt1)
 
-## 📊 Data Structures and Algorithms 3️⃣
+# 📊 Data Structures and Algorithms 3️⃣
 
 [![Level](https://img.shields.io/badge/Level-Advanced-red.svg)](https://github.com/)[![Language](https://img.shields.io/badge/Language-C++-blue.svg)](https://github.com/)
 
@@ -449,9 +462,9 @@
 
 * 📚 *Resources to be added*
 
-</details> ---
+</details> 
 
-## 🗄️ Databases 4️⃣
+# 🗄️ Databases 4️⃣
 
 [![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)[![Database](https://img.shields.io/badge/Database-SQL-blue.svg)](https://github.com/)
 
@@ -516,11 +529,11 @@ Explore distributed databases, replication, sharding, and failure recovery.
 
 ---
 
-## 💻 Operating Systems 5️⃣
+# 💻 Operating Systems 5️⃣
 
 [![Level](https://img.shields.io/badge/Level-Advanced-red.svg)](https://github.com/)[![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://github.com/)
 
-### 🌟 Course Overview
+## 🌟 Course Overview
 
 > 📌 **Important:** This is a comprehensive undergraduate course by **Dr. Ahmed Salah** from Ain Shams University, integrating resources from top universities: **Berkeley**, **UMass**, **Stanford**, and **MIT**.
 
@@ -604,7 +617,7 @@ This course uses a **top-down approach**, starting from the application layer an
 
 </details> ---
 
-## ⚙️ Software Engineering 7️⃣
+# ⚙️ Software Engineering 7️⃣
 
 [![Level](https://img.shields.io/badge/Level-Intermediate-orange.svg)](https://github.com/)[![Methodology](https://img.shields.io/badge/Methodology-Agile-blue.svg)](https://github.com/)
 
