@@ -8,18 +8,19 @@
 
 ## 📖 Table of Contents
 
-* [Fundamentals](#-الأساسيات-fundamentals)
-  * [Core Subjects](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-core-subjects)
-  * [Additional Important Subjects](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-additional-important-subjects)
-  * [Recommended Videos](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-recommended-videos)
-* [🧭 Programming Fundamentals](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-programming-fundamentals-1%EF%B8%8F%E2%83%A3)
-* [🧭 Object-Oriented Programming](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-object-oriented-programming-2%EF%B8%8F%E2%83%A3)
-* [📊 Data Structures & Algorithms](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-data-structures-and-algorithms-3%EF%B8%8F%E2%83%A3)
-* [🗄️ Databases](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-databases-4%EF%B8%8F%E2%83%A3)
-* [💻 Operating Systems](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-operating-systems-5%EF%B8%8F%E2%83%A3)
-* [🌐 Networking](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-networking-6%EF%B8%8F%E2%83%A3)
-* [⚙️ Software Engineering](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-software-engineering-7%EF%B8%8F%E2%83%A3)
-* [🙏 Acknowledgments](https://claude.ai/chat/79f9e75a-98a5-47de-85fd-05012983fb4b#-acknowledgments)
+* [🧱 Fundamentals](#-الأساسيات-fundamentals)
+  * [🎯 Core Subjects](#-core-subjects)
+  * [📚 Additional Important Subjects](#-مواد-تانية-مهمة-تحت-بند-الأساسيات)
+  * [🎥 Recommended Videos](#-recommended-videos)
+* [🧭 Programming Fundamentals](#-programming-fundamentals-1️⃣)
+* [🧭 Object-Oriented Programming](#-object-oriented-programming-2️⃣)
+* [📊 Data Structures and Algorithms](#-data-structures-and-algorithms-3️⃣)
+* [🗄️ Databases](#-databases-4️⃣)
+* [💻 Operating Systems](#-operating-systems-5️⃣)
+* [🌐 Networking](#-networking-6️⃣)
+* [⚙️ Software Engineering](#-software-engineering-7️⃣)
+* [🙏 Acknowledgments](#-acknowledgments)
+
 
 ---
 
@@ -37,20 +38,37 @@
 | **Data Structures**                   | 3 | Arrays, linked lists, trees, etc. |
 | **Algorithms**                        | 4 | Problem-solving techniques        |
 
-<details> <summary>📚 Additional Important Subjects</summary> مواد مهمة برضو محتاج تزاكرها ولكن لو كنت طالب حاسبات فغالبًا هتكون بتدرسها بالفعل في الكلية **تم ذكر المواد دي في فيديو الدكتور مصطفى سعد**.
+
+### 📚 مواد تانية مهمة تحت بند الأساسيات
+
+
+مواد مهمة برضو محتاج تزاكرها ولكن لو كنت طالب حاسبات فغالبًا هتكون بتدرسها بالفعل في الكلية.
+
+**تم ذكر المواد دي في فيديو الدكتور مصطفى سعد.*
 
 * [خارطة طريق مبسطة لطلاب علوم الحاسب](https://www.youtube.com/watch?v=b56XFMNEzAs&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=4)
 * [خارطة طريق مبسطة لطلاب علوم الحاسب](https://www.youtube.com/watch?v=JkcmNrdhjMs&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=9)
 
-</details> ### 🎯 Recommended Videos
+### 🎯 Recommended Videos  
+[![Priority: High](https://img.shields.io/badge/Priority-High-red.svg)](https://github.com/)
 
-[![Important](https://img.shields.io/badge/Priority-High-red.svg)](https://github.com/)
+> Playlists & Talks لفهم الأساسيات، النصائح، والتوجيه الأكاديمي والمهني للطلبة.
 
-* 🔥 [سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)
-* 💬 [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)
-* 📖 [إلى طلابنا فى حاسبات و معلومات - نصائح لمستقبل أفضل](https://www.youtube.com/watch?v=-ON5YZySTUI&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=3)
-* 👨‍🎓 [الى طلابنا فى حاسبات و معلومات - سنة أولى و تانية](https://www.youtube.com/watch?v=njGvWw6fSdY&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=5)
-* 🎥 [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)
+
+- 🔥 [سلسلة حاسبات لإرشاد الطلبة](https://www.youtube.com/playlist?list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB)  
+  *(أهم فيديوهات لمساعدة الطلبة في اختيار المسار الأكاديمي والوظيفي)*  
+
+- 💬 [Online Talks](https://www.youtube.com/playlist?list=PLPt2dINI2MIaEnp3dSwZEGL7_o03Js9oG)  
+  *(لقاءات مباشرة تحتوي على نصائح متنوعة وتجارب حقيقية)*
+
+- 📖 [نصائح لمستقبل أفضل](https://www.youtube.com/watch?v=-ON5YZySTUI&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=3)  
+  *(نقاشات عامة عن التخصصات وفرص سوق العمل)*
+
+- 👨‍🎓 [سنة أولى وتانية حاسبات](https://www.youtube.com/watch?v=njGvWw6fSdY&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=5)  
+  *(نصائح مباشرة للطلبة الجدد في الكلية)*
+
+- 🎥 [Mohamed Moshrif Tech Videos](https://www.youtube.com/playlist?list=PL_559gpeEG3N_Omp88v0g2V-dfLqDPWZA)  
+  *(فيديوهات تقنية متنوعة وشرح مفيد للعديد من المواضيع)*
 
 ---
 
