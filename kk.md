@@ -6,24 +6,29 @@
 [![Arabic Content](https://img.shields.io/badge/Language-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9-green.svg)](https://github.com/)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue.svg)](https://github.com/)
 
-## Table of Contents
+## 📚 Table of Contents
 
 * [Fundamentals](#الأساسيات-fundamentals)
-  * [Core Subjects](#core-subjects)
+  * [Core Subjects](#4-مواد-أساسية)
   * [Additional Important Subjects](#مواد-تانية-مهمة-تحت-بند-الأساسيات)
   * [Recommended Videos](#recommended-videos)
 * [Programming Fundamentals](#programming-fundamentals)
 * [Object-Oriented Programming](#object-oriented-programming)
 * [Data Structures and Algorithms](#data-structures-and-algorithms)
-* [Databases](#databases)
+* [Databases](#database)
 * [Operating Systems](#operating-systems)
-* [Networking](#networking)
+* [Computer Networking](#computer-networking)
 * [Software Engineering](#software-engineering)
 * [Acknowledgments](#acknowledgments)
+
+
+
 
 # الأساسيات (Fundamentals)
 
 لما نتكلم عن أساسيات المجال يمكن تقسيمها إلى 4 مواد رئيسية تُعتبر "Core" وهي:
+
+### 4 مواد أساسية
 
 | Subject                               |
 | ------------------------------------- | 
@@ -40,6 +45,13 @@
 
 * [خارطة طريق مبسطة لطلاب علوم الحاسب](https://www.youtube.com/watch?v=b56XFMNEzAs&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=4)
 * [خارطة طريق مبسطة لطلاب علوم الحاسب](https://www.youtube.com/watch?v=JkcmNrdhjMs&list=PLPt2dINI2MIYY3yqu4YDu2se2GCpcKBfB&index=9)
+
+| Subject                               |
+| ------------------------------------- | 
+| **Databases**        | 
+| **Operating Systems** | 
+| **}omputer Networking**                   | 
+| **Software Engineering**                        |
 
 ### Recommended Videos  
 [![Priority: High](https://img.shields.io/badge/Priority-High-red.svg)](https://github.com/)
