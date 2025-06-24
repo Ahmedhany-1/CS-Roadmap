@@ -622,19 +622,43 @@
 
 **Arabic Resources:**
 
-* **Primary:** [Sorting Algorithms [كود مصري]](https://www.youtube.com/watch?v=KYSv6FY7_kM&list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV)
-* [Sorting Algorithms - Data Structures Course](https://youtu.be/kPRA0W1kECg?si=OUZd7QdJSgJvKxjz)
-* [Sorting Algorithms Explained](https://youtu.be/ZZuD6iUe3Pc?si=xSYNGcpQiFWmjrZs)
+- [1. Sorting Algorithms [كود مصري]](https://www.youtube.com/playlist?list=PLrW6ND2wzt4qVfoiiblU95KOWuEnI3xDV)
+- [2.1 From 38 To 40 - Insertion Sort](https://www.youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6)
+- [2.2 From 60 To 65 - Selection and Bubble Sort](https://www.youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6)
+- [2.3 From 69 To 70 - Merge Sort](https://www.youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6)
+- [2.4 From 75 To 76 - Quick Sort](https://www.youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6)
+- [2.5 From 79 - Count Sort](https://www.youtube.com/playlist?list=PLs4xH3XPr55guaS_NY0SQ6dQabpXK0xQ6)
 
 **English Resources:**
 
-* [Sorting Algorithms Explained Visually](https://www.youtube.com/watch?v=kPRA0W1kECg)
-* [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [1. Sorting - Striver](https://www.youtube.com/playlist?list=PLyPvmU8zOvFl-XPak-nKr2HYMEo_fSEK_)
+- [2. Sorting Algorithms - William Fiset](https://www.youtube.com/playlist?list=PLEJXowNB4kPxse7iinEzb6FivjtQVxOXI)
+- [3. Sorting Algorithms Explained Visually](https://www.youtube.com/watch?v=kPRA0W1kECg)
+- [4. Learn Counting Sort Algorithm in LESS THAN 6 MINUTES!](https://www.youtube.com/watch?v=OKd534EWcdk&t=206s&pp=ygUNY291bnRpbmcgc29ydA==)
 
-**Practice Platforms:**
+**Practice Problems:**
 
-* [LeetCode Sorting Problems](https://leetcode.com/tag/sorting/)
-* [Codeforces Sorting Practice](https://codeforces.com/problemset?tags=sortings)
+- 🟢 Easy
+
+1. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/)
+2. [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/description/)
+3. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/description/)
+4. [Buy Two Chocolates](https://leetcode.com/problems/buy-two-chocolates/description/)
+5. [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/description/)
+6. [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/description/)
+7. [Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/)
+
+- 🟡 Medium
+
+1. [H-Index](https://leetcode.com/problems/h-index/description/)
+2. [Sort the Students by Their Kth Score](https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/)
+3. [Sort the Matrix Diagonally](https://leetcode.com/problems/sort-the-matrix-diagonally/description/)
+4. [Merge Intervals](https://leetcode.com/problems/merge-intervals/description/)
+5. [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/)
+
+- 🔴 Hard
+
+1. [Employee Free Time](https://leetcode.com/problems/employee-free-time/description/)
 
 </details>
 
@@ -643,21 +667,46 @@
 
 **Arabic Resources:**
 
-* **Primary:** [Binary Search - Complete Tutorial](https://youtu.be/j7NodO9HIbk?si=MzgJQ_jkNTGmYHrQ)
-* [Binary Search Applications](https://youtu.be/GU7DpgHINWQ?si=bHvNFmj2q8zGpx8j)
-* [Binary Search on Answer](https://youtu.be/W9QJ8HaRvJQ?si=kqMnSbVXqY6AEjrG)
-
+- [1. Search Techniques - Binary Search](https://youtu.be/2G7RzlxTNPo?si=UqB3HOj-AqfRCGno)
+- [2. binary search - Mahmoud Ayman](https://youtu.be/6Q3VIVKO6J8?si=A7SGrGLHKEWjhAQl)
+- [3. Binary Search - Ahmed Gamal](https://youtu.be/K224kaUPVZc?si=jvGIrglThfDnP6RT)
+- [4. Binary Search - ICPC FCAI CU](https://youtu.be/IW97m_KLYDA?si=KsjZhVPMoCeCqu3j)
+- [5. Bianry Search - ICPC Mansoura](https://www.youtube.com/watch?v=v_i9VfvoQV4&t=1892s)
+  
 **English Resources:**
 
-* [Binary Search Algorithm in 100 Seconds](https://www.youtube.com/watch?v=MFhxShGxHWc)
-* [Binary Search - CS50](https://www.youtube.com/watch?v=5xlIPT1FRcA)
+- [1. Binary Search Beginner to Advanced - Striver](https://www.youtube.com/playlist?list=PLgUwDviBIf0pMFMWuuvDNMAkoQFi-h0ZF)
+- [2. Binary Search Interview Questions - Google, Facebook, Amazon](https://www.youtube.com/watch?v=W9QJ8HaRvJQ&t=785s)
+- [3. Binary Search Algorithm - Theory + Code](https://www.youtube.com/watch?v=f6UU7V3szVw)
+- [4. Binary Search - Neet Code Soluotions](https://www.youtube.com/playlist?list=PLot-Xpze53leNZQd0iINpD-MAhMOMzWvO)
 
-**Practice Platforms:**
+**Practice Problems:**
 
-* [LeetCode Binary Search Problems](https://leetcode.com/tag/binary-search/)
-* [Binary Search Practice - Codeforces](https://codeforces.com/problemset?tags=binary%20search)
+- 🟢 Easy
+
+1. [Binary Search](https://leetcode.com/problems/binary-search/description/)
+2. [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
+3. [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/)
+4. [Sqrt(x)](https://leetcode.com/problems/sqrtx/)
+
+- 🟡 Medium
+
+5.  [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/)
+6.  [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)
+7.  [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
+8.  [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
+9.  [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+10. [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
+11. [Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/)
+  
+- 🔴 Hard
+  
+12. [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/)
+13. [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/)
+14. [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
 
 </details>
+
 
 <details>
 <summary>Graph Algorithms</summary>
