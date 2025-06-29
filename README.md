@@ -50,7 +50,7 @@
 | ------------------------------------- | 
 | **Databases**        | 
 | **Operating Systems** | 
-| **}omputer Networking**                   | 
+| **computer Networking**                   | 
 | **Software Engineering**                        |
 
 ### Recommended Videos  
